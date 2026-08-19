@@ -1,0 +1,89 @@
+[
+  {
+    "chunk_id": "acne_chunk_001",
+    "topic": "Definition, Anatomy, and Prevalence",
+    "source": [
+      "StatPearls / NCBI Bookshelf",
+      "Merck Manual Professional Edition",
+      "American Academy of Dermatology (AAD)",
+      "MedlinePlus"
+    ],
+    "content": "Acne vulgaris is a common chronic inflammatory skin condition involving the pilosebaceous unit, which consists of hair follicles and sebaceous glands. It commonly affects the face, upper chest, back, and shoulders. Acne may produce non-inflammatory lesions such as blackheads and whiteheads and inflammatory lesions such as papules, pustules, nodules, and cysts. It is especially common during adolescence and young adulthood, but it can also persist or begin during adulthood. Acne is not contagious."
+  },
+  {
+    "chunk_id": "acne_chunk_002",
+    "topic": "Pathophysiology and Key Factors",
+    "source": [
+      "MSD Manual / Merck Manual",
+      "DermNet",
+      "MedlinePlus"
+    ],
+    "content": "Acne development involves several interacting processes: increased sebum production, abnormal follicular keratinization and plugging, changes in the microbial environment of the pilosebaceous unit including Cutibacterium acnes, and inflammation. Increased sebum and accumulation of dead skin cells can contribute to follicular blockage. Hormonal changes, particularly increased androgen activity, can increase sebum production and contribute to acne."
+  },
+  {
+    "chunk_id": "acne_chunk_003",
+    "topic": "Clinical Classification and Lesion Types",
+    "source": [
+      "StatPearls / NCBI Bookshelf",
+      "Yale Medicine",
+      "American Academy of Dermatology (AAD)",
+      "DermNet"
+    ],
+    "content": "Acne lesions can be non-inflammatory or inflammatory. Open comedones (blackheads) are clogged follicles that remain open at the surface, while closed comedones (whiteheads) are clogged follicles covered by skin. Papules are small inflamed raised bumps. Pustules are inflamed lesions that contain visible pus. Nodules are larger, deeper, and often painful lesions. Cysts are deep inflammatory lesions and may increase the risk of scarring. Acne severity can be described as mild, moderate, or severe based on lesion type, extent, and the presence of deeper lesions or scarring."
+  },
+  {
+    "chunk_id": "acne_chunk_004",
+    "topic": "Etiology, Risk Factors, and Aggravating Factors",
+    "source": [
+      "Mayo Clinic",
+      "American Academy of Dermatology (AAD)",
+      "MedlinePlus",
+      "NHS"
+    ],
+    "content": "Acne susceptibility is influenced by genetics and hormonal activity. Factors that may trigger or worsen acne include hormonal changes during puberty and other hormonal states, some medicines such as corticosteroids, testosterone, or lithium, and mechanical friction or pressure from helmets, tight clothing, straps, or similar sources. Some evidence suggests that high-glycemic dietary patterns may influence acne in some people. Acne is not simply caused by poor hygiene. Stress may worsen existing acne but is not considered the sole cause."
+  },
+  {
+    "chunk_id": "acne_chunk_005",
+    "topic": "Clinical Diagnosis and Treatment",
+    "source": [
+      "American Academy of Dermatology (AAD)",
+      "PubMed / Acne Clinical Guidelines",
+      "EuroGuiDerm Acne Guideline"
+    ],
+    "content": "Acne is primarily diagnosed clinically by evaluating the skin and identifying the type, number, distribution, and severity of lesions. Treatment depends on the severity and type of acne and the individual patient. Common treatment options include topical retinoids, benzoyl peroxide, azelaic acid, and selected topical or oral antimicrobial therapies. Some patients with moderate or severe acne may require oral medicines, hormonal therapy, or oral isotretinoin under appropriate medical supervision. Treatment should not be selected or prescribed by an AI system for an individual patient."
+  },
+  {
+    "chunk_id": "acne_chunk_006",
+    "topic": "Prevention and Skin Care",
+    "source": [
+      "American Academy of Dermatology (AAD)"
+    ],
+    "content": "Acne-prone skin can be managed with gentle skin care. Recommended habits may include washing gently, avoiding aggressive scrubbing, avoiding picking or squeezing lesions, choosing gentle non-irritating and non-comedogenic products when appropriate, and using sunscreen. Excessive washing and irritation can make acne worse. Consistent use of an appropriate treatment plan is important."
+  },
+  {
+    "chunk_id": "acne_chunk_007",
+    "topic": "Complications and Long-Term Effects",
+    "source": [
+      "DermNet",
+      "American Academy of Dermatology (AAD)"
+    ],
+    "content": "Acne can result in post-inflammatory hyperpigmentation and acne scarring. Deeper and more severe inflammatory lesions have a greater risk of permanent scarring. Acne can also affect quality of life and may contribute to emotional or social distress, especially when it is persistent or severe."
+  },
+  {
+    "chunk_id": "acne_chunk_008",
+    "topic": "When to See a Dermatologist",
+    "source": [
+      "American Academy of Dermatology (AAD)",
+      "DermNet"
+    ],
+    "content": "Professional dermatological evaluation is appropriate when acne is severe, deep, or painful; when scarring is developing; when acne does not improve with appropriate skin care; or when the diagnosis is uncertain. Several skin conditions can resemble acne, including folliculitis and perioral dermatitis, so persistent or unusual lesions should be assessed by a healthcare professional."
+  },
+  {
+    "chunk_id": "acne_chunk_009",
+    "topic": "Medical AI Safety and Response Rules",
+    "source": [
+      "Project safety policy / clinical safety design"
+    ],
+    "content": "The Medical AI system should provide educational information and evidence-based explanations rather than a definitive diagnosis. It should retrieve information from trusted medical sources, communicate uncertainty when appropriate, and recommend professional evaluation when symptoms are severe, unusual, worsening, or associated with significant pain or scarring. The system should not prescribe individual medication doses, replace a dermatologist, or claim certainty from an image alone. Image analysis should be presented as an observation or risk-support feature, not as a definitive medical diagnosis."
+  }
+]

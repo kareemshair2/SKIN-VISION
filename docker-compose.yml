@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  skin-vision-app:
+    build: .
+    container_name: skin_vision_container
+    ports:
+      - "8501:8501"
+    environment:
+      - PORT=8501
+    volumes:
+# Link the local data folder inside the container to ensure that images and text are not lost      
+      - ./data:/app/data
+     
+     # Linking the directional database folder to save the Embeddings
+      - ./vectorstore:/app/vectorstore
+    restart: always

@@ -1,0 +1,50 @@
+# --- 1. Core LangChain & Orchestration ---
+langchain>=0.2.0                  # Main framework for building RAG applications and connecting LLM components
+langchain-core>=0.2.0             # Base abstractions and core types for LangChain ecosystem
+langchain-community>=0.2.0        # Community-contributed third-party integrations and loaders
+langchain-openai>=0.1.0           # Official LangChain integration for OpenAI models
+langchain-text-splitters>=0.2.0   # Specialized utilities for splitting documents into chunks
+langgraph>=0.1.0                  # Framework for building robust, stateful, multi-agent workflows for future scaling
+
+# --- 2. Vector Databases ---
+chromadb>=0.5.0                   # Lightweight vector database ideal for local development and rapid prototyping
+qdrant-client>=1.9.0              # High-performance vector database with strong multimodal and metadata support for production
+faiss-cpu>=1.8.0                  # Efficient library for dense vector similarity search and clustering
+
+# --- 3. Embeddings & Machine Learning ---
+sentence-transformers>=3.0.0      # Framework for generating local text and sentence embeddings
+torch>=2.3.0                      # Deep learning foundation framework required for neural networks and vision models
+transformers>=4.41.0              # Hugging Face library to load state-of-the-art NLP and Vision-Language models
+accelerate>=0.30.0                # Optimizes training and inference distribution across hardware accelerators
+
+# --- 4. Vision & Multimodal Processing ---
+pillow>=10.3.0                    # Core Python imaging library for opening, manipulating, and saving image files
+opencv-python>=4.9.0              # Advanced computer vision library for image preprocessing and manipulation
+pytesseract>=0.3.10               # Python wrapper for Google's Tesseract-OCR engine to extract text from images
+easyocr>=1.7.1                    # Optical Character Recognition library with high multi-language support (great for Arabic/English)
+
+# --- 5. APIs & LLM Providers ---
+openai>=1.30.0                    # Official SDK to interact with OpenAI models (e.g., GPT-4o for vision tasks)
+google-generativeai>=0.5.0        # Official SDK for Google Gemini models, highly proficient in native multimodal workflows
+anthropic>=0.26.0                 # SDK for integrating Anthropic Claude models
+
+# --- 6. Document Parsers & Data Loading ---
+pypdf>=4.2.0                      # Pure-python library designed to extract text and metadata from PDF files
+unstructured>=0.14.0              # Advanced document parser for cleaning and structuring complex layouts (tables, figures)
+python-docx>=1.1.0                # Library for reading and updating Microsoft Word (.docx) files
+
+# --- 7. Evaluation & Observability ---
+ragas>=0.1.15                     # Evaluation framework to measure RAG pipeline performance (faithfulness, relevancy)
+arize-phoenix>=4.0.0              # Observability tool for tracing, evaluating, and debugging LLM applications in production
+
+# --- 8. Web APIs & UI ---
+fastapi>=0.111.0                  # High-performance modern web framework for building production-grade backend APIs
+uvicorn>=0.29.0                   # Lightning-fast ASGI web server implementation to run FastAPI
+streamlit>=1.35.0                 # Framework to quickly build interactive frontend web UIs for your AI application
+gradio>=4.32.0                    # Alternative framework for building quick machine learning web interfaces and demos
+pydantic>=2.7.0                   # Data validation and settings management using Python type annotations
+
+# --- 9. Utilities & Environment ---
+python-dotenv>=1.0.1              # Loads environment variables securely from a .env file (e.g., API keys)
+requests>=2.31.0                  # Simple HTTP library for making external API requests
+tqdm>=4.66.0                      # Fast, extensible progress bar for loops and data processing tasks

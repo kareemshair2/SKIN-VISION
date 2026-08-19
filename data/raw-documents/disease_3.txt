@@ -1,0 +1,390 @@
+Mariam Hassan:
+ATOPIC DERMATITIS (ATOPIC ECZEMA)
+Medical RAG Knowledge Base
+
+Purpose:
+Educational medical knowledge base for an AI RAG project.
+This knowledge base provides information about Atopic Dermatitis, including symptoms, appearance, causes, triggers, diagnosis, treatment, prevention, complications, and medical safety.
+
+Primary Sources:
+- American Academy of Dermatology (AAD)
+- NICE
+- Mayo Clinic
+- DermNet NZ
+
+
+==================================================
+CHUNK 01 — DEFINITION
+==================================================
+
+Section: Definition
+
+Atopic dermatitis (AD), also known as atopic eczema, is a common chronic inflammatory skin condition. It commonly causes dry, itchy, and inflamed skin. Atopic dermatitis can occur at any age but often begins during childhood. It is not contagious and cannot spread from person to person.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 02 — MAIN SYMPTOMS
+==================================================
+
+Section: Symptoms
+
+Common symptoms of atopic dermatitis include intense itching, dry or cracked skin, an inflammatory rash, swelling, scaling, small raised bumps, oozing, crusting, and raw or sensitive skin. Scratching can worsen the rash and damage the skin.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 03 — CHRONIC SKIN CHANGES
+==================================================
+
+Section: Chronic Skin Changes
+
+Repeated scratching and long-term inflammation can cause the skin to become thicker, rougher, scaly, or leathery. This change is known as lichenification. After an eczema flare improves, the affected skin may remain lighter or darker than the surrounding skin.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 04 — APPEARANCE ON DIFFERENT SKIN TONES
+==================================================
+
+Section: Appearance and Skin Tone
+
+Atopic dermatitis does not look the same on every skin tone. On lighter skin, affected areas may appear red or pink. On darker skin, eczema may appear dark brown, purple, grayish, or darker than the surrounding skin. It may also appear as small rough bumps. Therefore, eczema should not be identified only by looking for redness.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 05 — COMMON BODY LOCATIONS
+==================================================
+
+Section: Body Locations
+
+Atopic dermatitis can occur anywhere on the body. Commonly affected areas include the face, neck, hands, arms, legs, eyelids, elbows, elbow folds, and areas behind the knees. The location and appearance can vary depending on age and disease severity.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 06 — CAUSES
+==================================================
+
+Section: Causes
+
+The exact cause of atopic dermatitis is not completely understood. The condition is associated with interactions between genetic factors, the immune system, and the skin barrier. People with atopic dermatitis may have a weakened skin barrier, which can cause increased moisture loss and make the skin more vulnerable to irritation.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/causes
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 07 — RISK FACTORS
+==================================================
+
+Section: Risk Factors
+
+A family history of atopic dermatitis or other allergic conditions, such as asthma or hay fever, is associated with an increased risk of developing atopic dermatitis. Genetic and immune-system factors contribute to the condition.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/causes
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 08 — TRIGGERS
+==================================================
+
+Section: Triggers and Flare-ups
+
+Factors that may worsen atopic dermatitis or trigger flare-ups include dry skin, heat, sweating, cold or dry weather, irritating skin-care products, fragrances, certain cleaning products, tobacco smoke, stress, and some environmental allergens. Triggers vary between individuals.
+
+A trigger is a factor that may worsen symptoms or cause a flare-up. It should not automatically be considered the underlying cause of atopic dermatitis.
+
+Source: Mayo Clinic; American Academy of Dermatology (AAD)
+
+Source URLs:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 09 — DIAGNOSIS
+==================================================
+
+Section: Diagnosis
+
+Atopic dermatitis is primarily diagnosed through a clinical examination and medical history. A healthcare professional evaluates the appearance of the skin, symptoms, and the patient's medical history. Additional tests may sometimes be used to investigate allergies or rule out other skin conditions.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 10 — BASIC SKIN CARE
+==================================================
+
+Section: Basic Treatment and Skin Care
+
+Regular moisturization is an important part of managing atopic dermatitis. Moisturizers help maintain skin hydration, reduce dryness and cracking, and support the skin barrier. Dermatologists commonly recommend fragrance-free creams or ointments for people with atopic dermatitis. Gentle skin care and avoiding irritating products can also help manage symptoms.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 11 — TOPICAL CORTICOSTEROIDS
+==================================================
+
+Section: Topical Corticosteroids
+
+Topical corticosteroids are medications applied directly to the skin to reduce inflammation during eczema flares. The appropriate potency depends on factors such as disease severity, body location, and patient characteristics. Topical corticosteroids should be used according to healthcare-professional guidance.
+
+Source: NICE
+
+Source URL:
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 12 — OTHER TREATMENTS
+==================================================
+
+Section: Other Treatment Options
+
+Depending on the severity and characteristics of the condition, treatment may include moisturizers, topical corticosteroids, topical calcineurin inhibitors, phototherapy, biologic therapies, or systemic medications. Moderate-to-severe atopic dermatitis may require treatments beyond basic skin care and should be medically assessed.
+
+Treatment choice depends on factors such as age, disease severity, affected body areas, medical history, and previous treatment response.
+
+Source: American Academy of Dermatology (AAD); NICE
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 13 — PREVENTION
+==================================================
+
+Section: Prevention and Flare-up Management
+
+Regular moisturization, gentle skin care, and avoiding known personal triggers can help reduce eczema flare-ups. People with atopic dermatitis should identify factors that worsen their own symptoms and avoid them when possible. Fragrance-free skin-care products may be preferable for sensitive or eczema-prone skin.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 14 — SCRATCHING
+==================================================
+
+Section: Scratching and Skin Damage
+
+Scratching can worsen atopic dermatitis and damage the skin barrier. Repeated scratching can cause raw skin, thickened skin, and an increased risk of skin infection. Managing itching and keeping the skin moisturized are important parts of eczema management.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 15 — COMPLICATIONS
+==================================================
+
+Section: Complications and Infection
+
+Damaged skin caused by scratching can become infected. Signs that may suggest a skin infection include pus, yellow crusting, new streaks, increasing pain, or other signs of worsening inflammation. Fever together with a rash that appears infected requires medical evaluation.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/dxc-20341958
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 16 — WHEN TO SEE A DOCTOR
+==================================================
+
+Section: Medical Evaluation
+
+A healthcare professional should be consulted when eczema symptoms are severe, persistent, interfere with sleep or daily activities, or do not improve with appropriate self-care. Medical evaluation is especially important when signs of infection are present or when the diagnosis is uncertain.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/dxc-20341958
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 17 — CHILDREN
+==================================================
+
+Section: Atopic Dermatitis in Children
+
+Atopic dermatitis commonly begins during childhood. In young children, eczema can commonly affect the face and other areas of the body. Management in children should take age, affected body location, severity, and treatment safety into account.
+
+Source: American Academy of Dermatology (AAD); NICE
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.nice.org.uk/guidance/cg57
+
+Evidence Level: High
+
+Important Note:
+NICE guideline CG57 specifically focuses on managing atopic eczema in children under 12 years. Recommendations from this guideline should not automatically be generalized to adults.
+
+
+==================================================
+CHUNK 18 — MEDICAL IMAGES
+==================================================
+
+Section: Visual Appearance
+
+Medical images of atopic dermatitis can show different presentations, including acute eczema, chronic lichenified eczema, facial eczema, hand eczema, flexural eczema, eyelid involvement, and eczema appearing on different skin tones.
+
+Images are useful as educational references but should not be treated as sufficient evidence for self-diagnosis.
+
+Primary Image Source:
+DermNet NZ
+
+Source URL:
+https://dermnetnz.org/images/atopic-dermatitis-images
+
+Evidence Level: High
+
+Image License Note:
+The license and permitted use of each individual image must be checked before using or redistributing it.
+
+
+==================================================
+CHUNK 19 — DIAGNOSTIC SAFETY
+==================================================
+
+Section: Diagnostic Safety
+
+The presence of itching, dryness, redness, or a rash does not by itself confirm atopic dermatitis. Several skin conditions can have similar symptoms or appearances. A medical RAG assistant should provide educational information and encourage professional evaluation when diagnosis is required rather than claiming that a user definitely has eczema.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 20 — MEDICATION SAFETY
+==================================================
+
+Section: Medication Safety
+
+A medical RAG assistant should not prescribe medications, recommend personalized dosages, or tell a user to start, stop, or change prescription treatment based only on a chat. Treatment decisions should consider factors such as age, affected body area, disease severity, medical history, and other medications.
+
+Medication-related answers should be grounded in authoritative clinical guidance and should encourage consultation with a qualified healthcare professional when appropriate.
+
+Source: NICE; American Academy of Dermatology (AAD)
+
+Source URLs:
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 21 — SOURCE PRIORITY
+==================================================
+
+Section: Evidence and Source Priority
+
+For medical answers about atopic dermatitis, authoritative clinical guidelines and professional dermatology organizations should receive higher priority than general health websites.
+
+Preferred sources for this knowledge base include:
+
+1. American Academy of Dermatology (AAD)
+2. NICE Clinical Guidelines
+3. Mayo Clinic
+4. DermNet NZ
+
+Clinical guidelines and professional medical organizations should be prioritized when different sources provide conflicting recommendations.
+
+Source Type:
+Medical / Clinical
+
+
+==================================================
+CHUNK 22 — MEDICAL DISCLAIMER
+==================================================
+
+Section: Medical Disclaimer
+
+Information retrieved from this knowledge base is intended for educational and informational purposes only. It should not replace diagnosis, treatment, or advice from a qualified healthcare professional.
+
+The RAG assistant should not claim certainty about a diagnosis based solely on symptoms or images.
+
+The assistant should encourage users to seek professional medical evaluation when symptoms are severe, persistent, worsening, infected, or when the diagnosis is uncertain.

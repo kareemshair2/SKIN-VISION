@@ -1,0 +1,1584 @@
+---
+title: "Herpes Zoster (Shingles)"
+disease: "Herpes Zoster"
+aliases:
+  - Shingles
+  - Zona
+  - Herpes zoster infection
+  - Varicella-zoster reactivation
+  - Herpes Zoster Virus infection
+category: "Infectious Disease (Viral)"
+pathogen: "Varicella-Zoster Virus (VZV)"
+domain: "Dermatology / Infectious Disease / Neurology"
+language: "en"
+document_type: "Medical Knowledge Base Entry (Merged Complete)"
+main_symptoms:
+  - Painful vesicular rash
+  - Burning / stabbing / shooting / electric-shock-like pain
+  - Tingling, itching, numbness, paresthesia
+  - Grouped fluid-filled vesicles in a dermatomal distribution
+  - Unilateral rash that does not cross the midline
+  - Prodromal pain before skin lesions appear
+treatments:
+  - Antiviral therapy (Acyclovir, Valacyclovir, Famciclovir)
+  - Early treatment within 72 hours of rash onset
+  - Pain management
+  - Skin care and supportive care
+complications:
+  - Postherpetic neuralgia (PHN)
+  - Herpes zoster ophthalmicus (HZO) / vision loss
+  - Herpes zoster oticus / Ramsay Hunt syndrome
+  - Neurological complications (encephalitis, cranial nerve palsy)
+  - Bacterial superinfection
+  - Disseminated herpes zoster
+emergency_flags:
+  - Eye involvement (rash near the eye, eye pain, visual changes)
+  - Neurological symptoms (severe headache, confusion, weakness, neck stiffness)
+  - Severe or disseminated disease
+  - Immunosuppression
+prevention:
+  - Recombinant zoster vaccine (RZV / Shingrix)
+  - Covering lesions and hand hygiene during active disease
+evidence_level: "High-confidence"
+version: "3.0"
+last_updated: "2026-08-16"
+sources:
+  - WHO Fact Sheet - Shingles (Herpes Zoster), 2025-03-24
+  - WHO Position Paper on Herpes Zoster Vaccines, 2025-07
+  - CDC Clinical Overview of Shingles
+  - CDC Clinical Features of Shingles
+  - American Academy of Dermatology (AAD) - Signs and Symptoms
+  - American Academy of Dermatology (AAD) - Diagnosis and Treatment
+  - NCBI Bookshelf / StatPearls - Herpes Zoster
+  - CDC Shingles Vaccine Recommendations, 2024-10-22
+---
+
+# Herpes Zoster (Shingles)
+
+## 1. Disease Identification
+
+| Attribute | Information |
+| ----------------------------------- | ------------------------------------------------------------------- |
+| Disease name | Herpes zoster |
+| Common name | Shingles |
+| Medical name | Herpes zoster (HZ) |
+| Causative virus | Varicella-Zoster Virus (VZV) |
+| Virus family | Herpesviridae |
+| Disease classification | Viral infectious disease with cutaneous and neurological manifestations |
+| Related primary infection | Varicella (chickenpox), caused by primary VZV infection |
+| Main clinical manifestation | Painful unilateral vesicular eruption in a dermatomal distribution |
+| Typical duration | Skin rash heals within approximately 2-4 weeks |
+| Major complication | Postherpetic neuralgia (PHN) |
+| Main prevention method | Recombinant zoster vaccine (RZV) |
+
+## 2. Definition
+
+Herpes zoster, commonly known as shingles, is a viral disease caused by the reactivation of latent varicella-zoster virus (VZV).
+
+- After primary VZV infection (varicella/chickenpox), the virus is not eliminated from the body. It becomes latent in sensory nerve ganglia.
+- Years or decades later, VZV may reactivate and travel along a sensory nerve to the skin, producing the characteristic painful unilateral dermatomal rash of herpes zoster.
+- The same virus therefore produces two distinct clinical diseases: varicella (primary infection) and herpes zoster (reactivation).
+- Anyone who has had chickenpox can develop shingles, although it is more common in adults over 50 years of age (WHO).
+- Herpes zoster can occur in anyone who has previously been infected with VZV, but the risk increases substantially with advancing age and impaired cellular immunity.
+
+High-confidence evidence: WHO, CDC, and dermatology references consistently identify VZV reactivation as the underlying cause of herpes zoster.
+
+## 3. Etiology
+
+Herpes zoster is caused exclusively by the reactivation of varicella-zoster virus (VZV).
+
+| Attribute | Information |
+| ----------------------------------- | ----------------------------------------------------------------- |
+| Pathogen | Varicella-Zoster Virus (VZV) |
+| Viral family | Herpesviridae |
+| Synonyms | Human alphaherpesvirus 3 (HHV-3) |
+| Primary infection | Varicella (chickenpox) |
+| Latent infection | VZV remains dormant in sensory nerve ganglia after primary infection |
+| Reactivation | Latent VZV reactivates and travels along a sensory nerve to the skin |
+| Result of reactivation | Herpes zoster (shingles) |
+
+Key relationships:
+
+- Primary VZV infection → Varicella (Chickenpox)
+- Reactivation of latent VZV → Herpes Zoster (Shingles)
+
+During primary infection, VZV establishes latency in sensory nerve ganglia. Reactivation later in life produces herpes zoster.
+
+CDC describes VZV as remaining dormant in the dorsal root ganglia following varicella infection and later reactivating to cause herpes zoster.
+
+## 4. Pathogenesis
+
+Herpes zoster develops through several biological stages.
+
+1. Primary VZV infection: a susceptible person is infected and develops varicella.
+2. Establishment of latency: after recovery, the immune system controls the virus but does not completely eradicate it.
+3. Viral latency: VZV remains dormant within sensory nerve ganglia (e.g., dorsal root ganglia).
+4. Reactivation: VZV may reactivate later in life, driven in particular by declining VZV-specific cell-mediated immunity. The exact biological trigger for reactivation is not completely understood.
+5. Viral movement along sensory nerves: reactivated virus travels along the affected sensory nerve toward the skin.
+6. Viral replication: VZV replicates within the skin.
+7. Skin inflammation: viral replication triggers inflammation.
+8. Development of the dermatomal rash: the eruption appears in the sensory distribution of the involved nerve (a dermatome).
+
+| Stage | Biological Process | Clinical Consequence |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Primary infection | VZV infection causes varicella (chickenpox) | Generalized vesicular rash; immunity develops but the virus is not eradicated |
+| Latency | VZV remains dormant in sensory nerve ganglia | No symptoms for years or decades |
+| Reactivation | VZV reactivates, associated with reduced VZV-specific cellular immunity | Pain and sensory symptoms precede and accompany the rash |
+| Neural spread | Virus travels along the affected sensory nerve | Unilateral pain, burning, tingling in the affected dermatome |
+| Cutaneous replication | Viral replication in the skin produces inflammation | Grouped vesicular eruption restricted to the affected dermatome(s) |
+
+CDC identifies declining VZV-specific cell-mediated immunity as an important factor associated with increased risk of herpes zoster.
+
+## 5. Epidemiology
+
+High-confidence evidence from CDC and WHO.
+
+- Global occurrence: herpes zoster is common worldwide.
+- Lifetime risk: CDC estimates that approximately 1 in 3 people in the United States will develop shingles during their lifetime.
+- Age distribution: incidence increases substantially with age, particularly after 50 years. The risk for herpes zoster and related complications, including hospitalizations, sharply increases after 50 years of age (CDC).
+- Disease severity: disease is more likely to be severe in individuals with compromised immune systems.
+- Recurrence: most individuals experience only one episode, although recurrent herpes zoster can occur.
+- Geographic considerations: herpes zoster occurs worldwide; incidence patterns may vary by region and vaccination programs.
+- Disease burden: herpes zoster and its complications, particularly postherpetic neuralgia, contribute to measurable morbidity, especially in older adults.
+- Annual cases (US): an estimated one million cases of herpes zoster occur annually in the United States (CDC).
+- US incidence rate: approximately two to nine cases per 1,000 US population annually, varying by age (CDC).
+- VZV exposure: about 99.5% of people born before 1980 in the United States have had wild-type VZV (CDC).
+- Hospitalizations: about 30% of people hospitalized with herpes zoster have compromised or suppressed immune systems (CDC).
+- Gender and race: herpes zoster is reported more often in women than in men and is less common in black people than in white people; CDC notes these findings are inconsistent or unexplained.
+- Trends: US herpes zoster rates have recently plateaued or declined across age groups (CDC).
+
+| Statistic | Value | Source |
+| --------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------- |
+| US lifetime risk of developing shingles | Approximately 1 in 3 people | CDC |
+| Age group with substantially increased incidence | Adults, particularly after age 50 | CDC / WHO |
+| Typical rash duration | Approximately 2-4 weeks | CDC / AAD |
+| Frequency of postherpetic neuralgia among shingles cases | Approximately 10-18%, increasing with age | CDC |
+| Annual US cases | Approximately 1 million | CDC |
+| US incidence rate | Approximately 2-9 cases per 1,000 population per year | CDC |
+| Wild-type VZV exposure, US adults born before 1980 | About 99.5% | CDC |
+| Immunocompromise among hospitalized shingles patients | About 30% | CDC |
+| US deaths with herpes zoster as underlying cause | One study estimated 96 per year (0.28-0.69 per 1 million population); almost all in older adults or the immunocompromised | CDC |
+
+Recommendations may vary according to country, population, and clinical guidelines.
+
+## 6. Risk Factors
+
+Risk factors are classified below into established risk factors and possible or less-established associations.
+
+| Risk Factor | Why It Increases Risk | Evidence/Source |
+| ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------- |
+| Increasing age | VZV-specific cellular immunity declines with age; incidence and severity increase with age | High-confidence evidence (CDC, WHO) |
+| Immunosuppression | Impaired immune control of latent VZV favors reactivation and severe disease | High-confidence evidence (CDC, WHO) |
+| Hematologic malignancies | Immune dysfunction associated with malignancy | High-confidence evidence |
+| Solid tumors | Cancer-associated immune impairment | High-confidence evidence |
+| HIV infection | Cell-mediated immune deficiency | High-confidence evidence |
+| Organ or bone marrow transplantation | Immunosuppressive regimens and graft-related immune modulation | High-confidence evidence |
+| Immunosuppressive medications | Pharmacologic suppression of cell-mediated immunity | High-confidence evidence |
+| Corticosteroids / immunomodulatory therapies | Suppression of immune responses to VZV | High-confidence evidence |
+| Diabetes mellitus | Chronic condition associated with increased risk (reported by WHO) | WHO-reported association |
+| Chronic kidney disease | Chronic condition associated with increased risk (reported by WHO) | WHO-reported association |
+| Chronic lung disease | Chronic condition associated with increased risk (reported by WHO) | WHO-reported association |
+| Stress | Periods of high stress may temporarily weaken the immune system, potentially triggering an outbreak | WHO-reported association |
+
+Established vs less-established risk factors:
+
+- Established risk factors: increasing age and immunosuppression (any cause listed above).
+- Possible or less-established associations: chronic medical conditions (diabetes mellitus, chronic kidney disease, chronic lung disease) are reported by WHO as associated with increased risk, but they do not mean a person will necessarily develop shingles. WHO also lists stress as a possible triggering factor.
+- Inconsistent or unexplained potential factors (CDC): herpes zoster is reported more often in women than in men and is less common in black people than in white people; these findings are not established risk factors.
+
+High-confidence evidence: older age and immunosuppression are the major risk factors consistently identified by WHO and CDC.
+
+## 7. Clinical Presentation
+
+The classical presentation of herpes zoster follows a predictable sequence:
+
+`Prodromal symptoms → unilateral dermatomal rash → vesicles → crusting → healing`
+
+The most characteristic feature is a painful vesicular eruption in a dermatomal distribution.
+
+- The rash usually affects one side of the body.
+- The rash generally does not cross the body's midline.
+- Common locations include the thoracic trunk, face, neck, lumbar region, and sacral region.
+
+| Symptom | Description | Typical Timing |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Prodromal pain | Burning, stabbing, shooting, or electric-shock-like pain before the rash | Days before skin lesions appear |
+| Tingling / itching | Abnormal sensation in the affected dermatome | Prodromal phase |
+| Numbness / paresthesia | Reduced or abnormal sensation | Prodromal phase |
+| Hyperesthesia | Increased sensitivity to sensory stimuli | Prodromal and eruptive phases |
+| Allodynia | Pain from non-painful stimuli (e.g., light touch) | Prodromal and eruptive phases |
+| Vesicular rash | Grouped fluid-filled vesicles on erythematous skin | Eruptive phase |
+| Fever | Systemic febrile response | May accompany the prodrome |
+| Headache | Generalized headache | May accompany the prodrome |
+| Malaise | General feeling of discomfort | May accompany the prodrome |
+| Chills / fatigue | Systemic symptoms | May accompany the prodrome |
+| Photophobia | Sensitivity to bright light | May occur several days before the rash (CDC) |
+| Muscle aches | Generalized muscle discomfort | May accompany the rash (AAD) |
+| Stomach pain | Abdominal discomfort | May accompany the rash (AAD) |
+| Vomiting | Emesis | May accompany the rash (AAD) |
+
+## 8. Prodromal Phase
+
+- Definition: prodromal symptoms are the earliest clinical manifestations of herpes zoster, occurring before visible skin lesions appear.
+- When they occur: symptoms can appear days or even weeks before the rash (WHO); commonly about 1-2 days before the rash in many patients (AAD).
+- Why they can make early diagnosis difficult: no rash is yet present, so the pain and sensory changes may be misattributed to other causes.
+- Some patients describe the sensation as burning pain, electric-shock-like pain, stabbing pain, shooting pain, or extreme sensitivity to touch.
+
+| Prodromal Feature | Description | Clinical Relevance |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Pain | Localized pain in a dermatomal distribution | May be misattributed to other causes before the rash appears |
+| Burning | Burning dysesthesia | Early sensory clue |
+| Tingling | Pins-and-needles sensation | Early sensory clue |
+| Itching | Pruritus in the affected area | Early sensory clue |
+| Numbness | Reduced sensation | Early sensory clue |
+| Abnormal skin sensitivity | Hypersensitivity to touch | Early sensory clue |
+| Fever / headache / malaise | Systemic prodromal symptoms | Non-specific; do not localize the diagnosis |
+| Chills / fatigue | Systemic prodromal symptoms | Non-specific |
+
+High-confidence evidence: prodromal symptoms occur before the rash in many patients and are a recognized clinical feature of herpes zoster.
+
+## 9. Skin Manifestations
+
+The classic skin eruption of herpes zoster evolves as:
+
+`Macules / papules → grouped vesicles → pustular or cloudy vesicles → crusts`
+
+The lesions typically appear in groups. The vesicles are generally small, fluid-filled, closely grouped, and located on an erythematous or inflamed skin background.
+
+- New vesicles may continue to appear for approximately 3-5 days.
+- Per WHO, the small fluid-filled blisters break open and crust over within a few days.
+- Per AAD, as the rash clears the blisters may crack open, bleed, and scab over.
+- The lesions subsequently dry and form crusts.
+- Healing may leave residual pigmentation changes or scarring.
+
+| Finding | Description | Clinical Significance |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Macules | Flat, discolored skin lesions | Earliest visible change |
+| Papules | Small, raised, solid lesions | Early evolving lesions |
+| Vesicles | Small fluid-filled blisters | Characteristic lesion of herpes zoster |
+| Grouped vesicles | Clusters of vesicles on inflamed skin | Classic morphology of herpes zoster |
+| Pustular / cloudy vesicles | Vesicles with cloudy fluid | Later evolution of lesions |
+| Crusts | Dried lesions after vesicle rupture or reabsorption | Sign of healing phase |
+| Healing | Re-epithelialization of the affected skin | Usually within 2-4 weeks |
+| Residual pigmentation / scarring | Post-inflammatory color change or scar | Possible sequelae, more likely with secondary infection |
+
+## 10. Dermatomal Distribution
+
+- Definition: a dermatome is an area of skin mainly supplied by a particular sensory nerve.
+- Why shingles follows dermatomes: reactivated VZV travels along a sensory nerve, so the eruption follows the anatomical distribution of that nerve.
+- Typical distribution: one or two adjacent dermatomes.
+- Laterality: usually unilateral.
+- Midline behavior: the rash usually does not cross the body's midline.
+
+| Location / Dermatome | Typical Presentation | Clinical Importance |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Thoracic dermatomes | Band-like rash on the trunk | Most common location |
+| Cervical dermatomes | Rash on the neck | May be associated with radicular pain |
+| Trigeminal / ophthalmic (V1) | Rash on the forehead, nose, or around the eye | Ocular involvement requires urgent evaluation |
+| Facial (other branches) | Rash on the face | May involve sensory branches of the trigeminal nerve |
+| Lumbar dermatomes | Rash on the lower back | Common location |
+| Sacral dermatomes | Rash over the sacral region | May be associated with sacral or perineal involvement |
+
+## 11. Common Anatomical Locations
+
+Herpes zoster commonly involves:
+
+- Thoracic trunk (chest and back): the most common location, especially along thoracic dermatomes.
+- Abdomen: abdominal dermatomes may be involved.
+- Lumbar region: lower back involvement is common.
+- Sacral region: sacral involvement may occur.
+- Face: facial involvement is clinically important.
+- Forehead: involvement of the forehead and nose raises the possibility of ophthalmic nerve (V1) involvement.
+- Ear: involvement near the ear is relevant to herpes zoster oticus and Ramsay Hunt syndrome.
+- Eye region: involvement of the eye area or eye itself is a high-priority medical concern.
+
+Facial and ocular importance:
+
+- Rash on the forehead, nose, eyelid, or area around the eye requires prompt medical evaluation because of the risk of ocular complications.
+- WHO considers shingles near the eye a medical emergency.
+- CDC recognizes ocular involvement as a potentially serious complication.
+
+## 12. Shingles on Different Skin Tones
+
+The visible appearance of inflammation in herpes zoster can vary with skin pigmentation.
+
+- The classic description of erythema (redness) may be more obvious on lighter skin.
+- On darker skin tones, inflammation may appear less distinctly red and may have darker, violaceous, brownish, or grayish tones.
+- AAD specifies that on darker skin tones the shingles rash may appear as grayish, pink, dark brown, or purplish bumps; on lighter skin tones the bumps tend to be red.
+- Per AAD, on brown or black skin, inflammation beneath the blisters may cause a purplish color or no noticeable discoloration, whereas on lighter skin it is usually red or pink.
+- Absence of obvious bright redness should not be used to exclude herpes zoster.
+
+Dermatology sources recognize that inflammatory erythema is less visible on darker skin, and AI-based dermatology systems must consider skin tone when interpreting visual features.
+
+Note: no formal skin-tone color classification system is used in this document; the information above reflects general dermatology guidance about the visibility of erythema across skin tones.
+
+## 13. Natural History and Disease Stages
+
+| Stage | Clinical Findings | Approximate Timing | Expected Progression |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Prodrome | Pain, burning, tingling, itching, or abnormal sensations | Days before the rash | Progression to rash in most patients |
+| Rash onset | Erythematous macules/papules appear | Day of eruption | Evolution to vesicles |
+| Vesicle formation | Grouped fluid-filled vesicles | First few days of rash | New vesicles for ~3-5 days |
+| New lesion development | Continuing appearance of grouped vesicles | ~3-5 days | Stop forming, then crusting |
+| Crusting | Vesicles dry and form crusts | After vesicular phase | Healing begins |
+| Healing | Skin gradually re-epithelializes | Approximately 2-4 weeks from onset | Usually complete healing |
+| Post-acute pain | Pain persisting after rash resolution | May extend beyond rash healing | May develop into postherpetic neuralgia |
+
+## 14. Disease Duration
+
+- Rash duration: the rash of herpes zoster usually resolves within approximately 2-4 weeks.
+- Time to crusting: crusting follows the vesicular phase, typically after the first week of the eruption.
+- Healing period: the skin heals gradually after crusting.
+- Pain duration: nerve pain may continue after the skin lesions disappear.
+- Difference between rash resolution and nerve pain resolution: these are different. The skin may heal within weeks, while pain may persist for months or longer.
+
+High-confidence evidence: for most patients the rash resolves within approximately 2-4 weeks, but nerve pain may persist beyond rash resolution.
+
+Additional timing from AAD: in otherwise healthy people, the blisters tend to clear within 7-10 days, the rash usually resolves completely within 2-4 weeks, and pain most often stops within 1-2 months.
+
+## 15. Transmission and Contagiousness
+
+| Question | Evidence-Based Answer |
+| -------------------------------------------------------- | ------------------------------------------------------------ |
+| Is shingles itself transmitted person-to-person? | No. Herpes zoster is not transmitted from person to person as herpes zoster. |
+| How does VZV spread from a person with shingles? | Primarily by direct contact with fluid from active vesicles. |
+| Who is susceptible? | People who have never had varicella and are not vaccinated against varicella. |
+| What disease does an exposed susceptible person develop? | Varicella (chickenpox), not herpes zoster. |
+| When is the patient considered infectious? | While active vesicular lesions are present. |
+| When does transmission risk become very low? | Once all lesions have crusted. |
+| Can shingles be airborne? | CDC states that active herpes zoster lesions are infectious through direct contact with vesicular fluid or through breathing in virus particles from the blisters until they dry and scab over. |
+| Infection-control recommendation | Keep the rash covered, avoid contact with susceptible individuals, and practice hand hygiene. |
+
+## 16. High-Risk Contacts
+
+People in the following categories warrant particular caution around a person with active shingles lesions:
+
+- Pregnant individuals who lack immunity to varicella: exposure can potentially result in varicella in the susceptible pregnant individual; WHO recommends avoiding contact between active shingles lesions and pregnant individuals who lack immunity to varicella.
+- Newborns: susceptible to VZV and at higher risk of severe disease.
+- Immunocompromised individuals: at higher risk of severe disease following VZV exposure.
+- People without previous varicella infection or vaccination: susceptible to VZV.
+
+The infectious risk is substantially reduced after all vesicles have crusted.
+
+This section provides general precautions only and is not individualized medical advice.
+
+## 17. Diagnosis
+
+Herpes zoster is usually diagnosed clinically.
+
+| Diagnostic Feature | Importance |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Rash morphology | Grouped vesicles on an erythematous base are characteristic |
+| Dermatomal distribution | Rash confined to one or two adjacent dermatomes is characteristic |
+| Unilateral localization | Typical of herpes zoster |
+| Pain or abnormal sensory symptoms | Often precede and accompany the rash |
+| Medical history | Relevant prior varicella and immunocompromising conditions |
+| Absence of a rash | Atypical presentation makes clinical diagnosis difficult |
+
+Once the characteristic rash is present, the diagnosis is often straightforward.
+
+However, diagnosis may be difficult when:
+
+- The rash is absent.
+- The presentation is atypical.
+- The patient is very young.
+- The patient is immunocompromised.
+- Lesions are disseminated.
+- The appearance resembles another dermatological disease.
+
+## 18. Laboratory Diagnosis
+
+- Preferred confirmatory method: polymerase chain reaction (PCR) testing for VZV DNA is the preferred confirmatory method according to current CDC guidance.
+- PCR can detect VZV DNA rapidly (CDC).
+- Microscopic examination: per AAD, when there is any diagnostic question, fluid scraped from a blister can be examined under a high-powered microscope to look for the virus.
+- Specimen collection: samples are obtained from appropriate skin lesions.
+- When PCR is useful: atypical presentation, uncertain diagnosis, non-classic lesions, immunocompromised patients, and suspected disseminated disease.
+- Limitations: laboratory testing is not required for every typical case.
+- Tests that are NOT preferred: laboratory confirmation is not indicated in routine typical clinical presentations; non-PCR methods are generally not preferred for confirmation when molecular testing is available.
+
+## 19. Differential Diagnosis
+
+| Condition | Similar Features | Features Favoring Shingles | Confirmatory Approach |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Herpes simplex | Vesicular grouped lesions | Unilateral dermatomal pattern and prodromal neuropathic pain | VZV PCR vs HSV PCR; clinical distribution |
+| Contact dermatitis | Erythematous rash, sometimes vesicular | Dermatomal distribution and neuropathic pain | Clinical history of exposure and morphology |
+| Impetigo | Crusted or vesiculopustular lesions | Dermatomal unilateral distribution and pain | Clinical morphology; bacterial culture if needed |
+| Insect bites | Papular/vesicular lesions in groups | Dermatomal distribution and neuropathic pain | Clinical history and distribution |
+| Folliculitis | Papulopustular lesions | Dermatomal distribution and unilateral pain | Clinical morphology |
+| Dermatitis herpetiformis | Grouped vesicular lesions, itching | Unilateral dermatomal distribution and neuropathic pain | Skin biopsy / direct immunofluorescence |
+| Other vesicular eruptions | Vesicles | Dermatomal, unilateral, painful | Clinical correlation and PCR when uncertain |
+| Eczema herpeticum (herpes simplex in atopic skin) | Vesicular eruption on eczematous skin | Dermatomal unilateral pattern | Clinical morphology; HSV/VZV PCR |
+| Drug eruptions | Generalized or localized rash | Unilateral dermatomal distribution and neuropathic pain | Medication history; clinical correlation |
+| Scabies / papular urticaria | Itchy papular lesions | Dermatomal distribution and neuropathic pain | Clinical history and morphology |
+| Candida (yeast) infection | Erythematous, sometimes vesicular lesions | Unilateral dermatomal pattern | Clinical morphology and microscopy |
+
+CDC lists herpes simplex including eczema herpeticum, impetigo, contact dermatitis and drug eruptions, folliculitis, scabies, insect bites, papular urticaria, candida infection, and dermatitis herpetiformis among the conditions with which herpes zoster is sometimes confused.
+
+Visual similarity alone does not establish the diagnosis. Clinical history, lesion distribution, symptom pattern, and laboratory testing when necessary should be considered.
+
+## 20. Treatment Overview
+
+| Treatment | Purpose | Evidence/Clinical Role | Important Notes |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Antiviral therapy | Inhibit viral replication, reduce shedding, new lesions, healing time, and acute pain | First-line for uncomplicated herpes zoster | Most effective when started early (ideally within 72 hours of rash onset) |
+| Pain management | Control acute and neuropathic pain | Standard supportive care | Depends on severity and patient-specific factors |
+| Skin care | Reduce discomfort and protect lesions | Supportive care | Keep clean, avoid scratching, cover lesions |
+| Symptomatic management | Manage fever, malaise, itching | Supportive care | Individualized |
+| Treatment of complications | Manage PHN, ocular, neurological, and bacterial complications | Directed by clinical scenario | Requires medical evaluation |
+
+## 21. Antiviral Therapy
+
+The primary pharmacological treatment for uncomplicated herpes zoster is antiviral therapy.
+
+Common antiviral agents:
+
+- Acyclovir
+- Valacyclovir
+- Famciclovir
+
+Mechanism at a high level: these medications inhibit viral replication.
+
+Clinical purpose: antiviral therapy can reduce the duration of viral shedding, reduce the development of new lesions, accelerate lesion healing, reduce the severity of acute pain, and reduce the risk of some complications.
+
+Timing: treatment is most effective when started early (see section 22).
+
+Patient-specific considerations: treatment should account for age, kidney function, liver function, other medical conditions, current medications, and drug interactions. Renal dosing adjustments are a recognized clinical consideration with these agents; however, this document does not provide individualized doses.
+
+Treatment limitations: antiviral therapy does not eliminate latent VZV and does not guarantee prevention of all complications.
+
+Important: this document does not provide individualized prescriptions or patient-specific doses. Any dose discussion must be labeled as guideline-level information and cited to the exact authoritative guideline.
+
+## 22. Timing of Antiviral Treatment
+
+- Why early treatment matters: antiviral therapy is most effective when started early because it limits viral replication and downstream tissue damage.
+- The 72-hour window: clinical sources consistently emphasize treatment during the first 72 hours after rash onset.
+- Presentation after 72 hours: this does not automatically mean treatment is useless.
+- Situations where treatment may still be considered after 72 hours: patients should still seek medical evaluation, because antiviral therapy may remain appropriate depending on the clinical situation (e.g., new vesicle formation, ophthalmic involvement, or immunocompromised status).
+
+The AAD specifically recommends medical evaluation even when more than 3 days have passed since the rash appeared.
+
+High-confidence evidence: early antiviral treatment is most effective, ideally within 72 hours of rash onset; treatment may still be considered after 72 hours on a case-by-case basis.
+
+## 23. Pain Management
+
+- Acute pain: pain in herpes zoster may occur before, during, or after the skin eruption.
+- Neuropathic pain: patients may describe burning, stabbing, shooting, throbbing, electric-shock-like pain, severe tenderness, and hypersensitivity to touch.
+- Intensity: the intensity of pain varies considerably between individuals.
+- Analgesics: for mild pain, clinicians may consider commonly used analgesics when medically appropriate.
+- Neuropathic pain medications: for more severe neuropathic pain, additional prescription treatments may be necessary.
+- Severe pain: severe acute pain is more common in older adults and is associated with an increased risk of persistent pain after the rash.
+- Patient-specific contraindications: treatment should account for age, kidney function, liver function, other medical conditions, current medications, drug interactions, and severity of pain.
+- Medical supervision: pain management should be under medical supervision.
+- Over-the-counter analgesics (WHO): pain relievers such as ibuprofen or acetaminophen (paracetamol) can help manage the pain.
+- Stronger medication (WHO): in some cases stronger pain medications, such as opioids or nerve pain medications, may be prescribed.
+- Corticosteroids (AAD): for severe pain, a dermatologist may prescribe a medication that reduces inflammation, such as a corticosteroid.
+
+Therefore, a general medical knowledge system should not provide individualized medication doses without adequate clinical information.
+
+## 24. Skin Care and Supportive Care
+
+Evidence-based supportive care includes:
+
+- Keeping lesions clean.
+- Keeping the affected area appropriately dry.
+- Avoiding scratching.
+- Avoiding intentional opening or puncturing of vesicles.
+- Keeping the affected area appropriately covered.
+- Washing hands after touching the affected area.
+- Avoiding unnecessary contact with lesions.
+- Cool compresses may help relieve discomfort and itching.
+- Calamine lotion may help soothe the skin and relieve itching (WHO).
+- Keeping the rash clean and dry helps prevent secondary bacterial infections (WHO).
+
+AAD also provides self-care recommendations for managing pain and itch during shingles.
+
+Unsupported home remedies (e.g., unverified topical applications without medical evidence) are not recommended. Supportive measures above should be distinguished from unproven treatments.
+
+## 25. Complications
+
+| Complication | Description | Risk Factors | Clinical Importance |
+| --------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Postherpetic neuralgia (PHN) | Pain persisting >90 days after rash onset | Increasing age, severe acute pain, extensive rash | Most common major complication |
+| Herpes zoster ophthalmicus (HZO) | Ophthalmic (V1) nerve involvement | Facial/frontal rash | Potential vision loss; urgent |
+| Ocular disease | Eye inflammation, corneal disease, eye pain | V1 involvement | Potential visual impairment |
+| Vision loss | Permanent visual impairment | Ocular involvement | Serious complication |
+| Hearing complications | Hearing problems | Herpes zoster oticus / Ramsay Hunt syndrome | Potential hearing impairment |
+| Bacterial superinfection | Secondary bacterial infection of lesions | Staphylococcus aureus, Group A Streptococcus | Requires assessment and treatment |
+| Scarring | Persistent skin changes | Secondary infection, severe disease | Cosmetic consequence |
+| Encephalitis | Brain inflammation | Rare; more likely in immunocompromised | Serious neurological complication |
+| Meningoencephalitis | Brain and meningeal inflammation | Rare; more likely in immunocompromised | Serious neurological complication |
+| Pneumonia | Lung involvement | Disseminated disease | Serious complication |
+| Stroke | Cerebrovascular event | Rare circumstance | Serious complication |
+| Disseminated herpes zoster | Widespread eruption outside primary dermatomes | Immunocompromise | May involve internal organs |
+| Visceral complications | Involvement of internal organs (CNS, lungs, liver) | Disseminated disease | High severity |
+| Hepatitis | Hepatitis in disseminated disease; liver involvement | Disseminated disease | Recognized complication |
+
+Signs suggesting bacterial infection of zoster lesions may include:
+
+- Increasing redness.
+- Increasing swelling.
+- Pus or purulent discharge.
+- Increasing warmth.
+- Worsening local pain.
+- Fever or systemic deterioration.
+
+CDC identifies bacterial superinfection of shingles lesions as a recognized complication.
+
+Severe complications are uncommon in otherwise healthy individuals but occur more frequently in immunocompromised patients.
+
+Additional complications recognized by CDC include cranial and peripheral nerve palsies. AAD notes that although rare, some people die of shingles, and complications after the rash clears can include blindness or some loss of eyesight (if shingles infects the eyes), hearing loss, pneumonia, and encephalitis.
+
+## 26. Postherpetic Neuralgia (PHN)
+
+- Definition: postherpetic neuralgia is persistent pain in the area affected by shingles after the acute infection has resolved.
+- Clinical definition used by CDC: pain persisting for more than 90 days after rash onset.
+- Symptoms: burning pain, shooting pain, electric-shock-like sensations, extreme sensitivity to touch, persistent aching.
+- Pathophysiology: nerve damage and altered pain signaling following acute zoster infection.
+- Risk factors: increasing age, severe acute pain, and extensive rash.
+- Frequency: CDC estimates approximately 10-18% of people with herpes zoster develop PHN, with the risk increasing with age.
+- Duration: PHN may last for months or years.
+- Impact on quality of life: chronic pain can substantially affect daily function and quality of life. Per AAD, PHN pain can be constant or intermittent, can go on for months, years, or the rest of a person's life, and can interfere with everyday activities such as bathing, dressing, walking, or sleeping.
+- Frequency details (CDC): PHN is rare in people younger than 40 years, and the likelihood of PHN is higher in people who experience more pain with the rash or have a large rash.
+- Treatment approaches: treatment of neuropathic pain is individualized and requires medical supervision.
+
+Distinction: acute zoster pain occurs during the acute eruption, whereas PHN is defined by pain persisting after the rash resolves (per CDC, beyond 90 days after rash onset).
+
+## 27. Herpes Zoster Ophthalmicus (HZO)
+
+- Definition: herpes zoster involving the ophthalmic division (V1) of the trigeminal nerve.
+- Anatomical nerve involved: ophthalmic branch of the trigeminal nerve (cranial nerve V, division V1).
+- Clinical findings: rash on the forehead, nose, eyelid, or area around the eye.
+- Eye involvement: eye inflammation, corneal disease, and eye pain may occur.
+- Potential complications: visual impairment and potential vision loss.
+- Vision risk: ocular involvement can threaten vision.
+- Urgency: a shingles eruption involving the forehead, nose, eyelid, or area around the eye requires prompt medical evaluation.
+
+WHO considers shingles near the eye a medical emergency; CDC recognizes ocular involvement as a potentially serious complication.
+
+High-confidence evidence: ocular herpes zoster is a high-priority medical concern.
+
+## 28. Herpes Zoster Oticus / Ramsay Hunt Syndrome
+
+- Definition: herpes zoster involving the geniculate ganglion of the facial nerve is recognized as Ramsay Hunt syndrome (herpes zoster oticus).
+- Relationship to VZV: caused by reactivation of VZV affecting the facial nerve territory.
+- Ear involvement: vesicular rash may involve the ear or external auditory canal.
+- Facial nerve involvement: facial palsy may occur.
+- Hearing symptoms: hearing loss or impairment may occur.
+- Vertigo: vestibular symptoms may occur.
+- Clinical significance: Ramsay Hunt syndrome is clinically important because facial nerve involvement and hearing complications can occur.
+
+Prevalence is not overstated here: Ramsay Hunt syndrome is an uncommon presentation of herpes zoster. Facial nerve palsy in this setting requires prompt medical evaluation.
+
+## 29. Disseminated Herpes Zoster
+
+- Definition: disseminated herpes zoster is a widespread eruption involving skin areas outside the primary or adjacent dermatomes.
+- Difference from localized shingles: typical herpes zoster is localized to one or a few adjacent dermatomes; disseminated disease extends beyond this.
+- Risk in immunocompromised patients: disseminated disease is more likely in people with compromised or suppressed immune systems.
+- Skin findings: widespread vesicular lesions beyond the primary dermatome(s).
+- Possible visceral involvement: disseminated disease may involve internal organs, including the central nervous system (meningoencephalitis), lungs (pneumonitis), and liver (hepatitis) (CDC).
+- It can be difficult to distinguish disseminated zoster from varicella (CDC).
+- Neurological involvement: encephalitis or other neurological complications may occur.
+- Clinical urgency: disseminated herpes zoster requires medical assessment and management.
+
+## 30. Immunocompromised Patients
+
+Immunocompromised patients require special attention because the disease is more likely to be:
+
+- Severe.
+- Prolonged.
+- Extensive.
+- Disseminated.
+- Associated with internal organ involvement.
+
+About 30% of people hospitalized with herpes zoster have compromised or suppressed immune systems (CDC). People with compromised or suppressed immune systems are more likely to have a severe, long-lasting rash and to experience more severe complications (CDC).
+
+High-risk populations include:
+
+- People with hematologic malignancies.
+- People with solid tumors.
+- People with HIV infection.
+- Organ transplant recipients.
+- Bone marrow transplant recipients.
+- People receiving immunosuppressive medications.
+- People receiving certain corticosteroid or other immunomodulatory therapies.
+
+Immunocompromised individuals are more likely to develop severe, prolonged, atypical, or disseminated disease, including ocular involvement, neurological complications, and visceral involvement.
+
+The threshold for medical evaluation should therefore be lower in immunocompromised individuals.
+
+## 31. Herpes Zoster in Pregnancy
+
+- Transmission considerations: VZV can be transmitted to a susceptible pregnant individual through exposure to infectious shingles lesions, potentially resulting in varicella in the mother.
+- Difference between shingles and chickenpox: shingles is not transmitted as shingles; exposure in a susceptible person produces varicella (chickenpox).
+- Importance of maternal immunity: risk depends on the pregnant individual's immunity to varicella.
+- When medical evaluation is necessary: pregnancy-related exposure should be handled by a healthcare professional.
+
+WHO specifically recommends avoiding contact between active shingles lesions and pregnant individuals who lack immunity to varicella.
+
+This section does not provide individualized pregnancy management.
+
+## 32. Recurrence
+
+- Can shingles recur? Yes.
+- How common is recurrence? Most people experience herpes zoster only once; recurrence is possible but less common.
+- Risk factors for recurrence: reliable population-level statistics on recurrence risk are limited; CDC explicitly recognizes that herpes zoster can recur, that previous shingles does not guarantee lifelong protection, and that the precise incidence of recurrence is not known.
+
+No fabricated recurrence-rate statistics are used in this document.
+
+## 33. Vaccination
+
+| Aspect | Evidence-Based Information |
+| --------------------------------------------------- | ------------------------------------------------------------ |
+| Vaccine | Recombinant zoster vaccine (RZV) |
+| Vaccine purpose | Prevention of herpes zoster and related complications |
+| WHO recommendation | WHO's 2025 position paper supports consideration of recombinant zoster vaccination for older adults and certain other populations according to national health priorities and recommendations. WHO recommends considering the recombinant herpes zoster vaccine in a 2-dose schedule with a minimum 2-month interval between doses for prevention in older adults and those with chronic conditions, in countries where herpes zoster is an important public health problem; WHO advises countries to conduct cost-effectiveness analyses |
+| CDC recommendation (≥50 years) | CDC recommends 2 doses of recombinant zoster vaccine (RZV; Shingrix) separated by 2-6 months for immunocompetent adults aged 50 years and older, whether or not they report a prior episode of herpes zoster or a prior dose of Zostavax |
+| CDC recommendation (immunocompromised) | CDC recommends 2 doses of RZV for adults aged ≥19 years who are or will be immunodeficient or immunosuppressed because of disease or therapy; the second dose is typically given 2-6 months after the first, and may be given 1-2 months after the first when a shorter interval would benefit the patient |
+| Number of doses (CDC) | 2 doses |
+| Timing between doses (CDC) | 2-6 months for immunocompetent adults ≥50; 2-6 months (or 1-2 months when appropriate) for immunocompromised adults ≥19 |
+| Screening for prior varicella | Not necessary for adults ≥50; CDC notes that more than 99% of adults aged 50 years and older worldwide have been exposed to VZV, and serologic testing is not recommended |
+| Delayed second dose | If more than 6 months have elapsed since the first dose, administer the second dose as soon as possible and do not restart the series (CDC) |
+| Acute shingles episode | Shingrix should not be given to patients experiencing an acute episode of herpes zoster (CDC) |
+| Prior Zostavax | Zostavax is no longer available for use in the United States (as of November 18, 2020); an interval of at least 8 weeks after Zostavax is recommended before Shingrix (CDC) |
+| Prior shingles | Vaccination is recommended regardless of prior shingles; the vaccine is licensed for adults aged 50 years and older even if they have had shingles before (WHO) |
+| Co-administration | Recombinant and adjuvanted vaccines can be administered concomitantly at different anatomic sites with other adult vaccines (CDC) |
+| Contraindications/precautions | Should follow current national immunization guidance and product labeling |
+| Country-specific recommendations | Because vaccine recommendations vary between countries and populations, the exact eligibility and schedule should follow the current national immunization guidance |
+
+Important: country-specific recommendations (WHO vs CDC) are deliberately kept separate and must not be combined into a universal rule.
+
+### Chickenpox vaccine and shingles
+
+- The chickenpox (varicella) vaccine can reduce the risk of developing shingles later in life (WHO).
+- Children who received the varicella vaccine are significantly less likely to develop shingles compared with children who had natural varicella infection (WHO; CDC).
+- Herpes zoster has always been uncommon among children, and the rate in US children has declined since the routine varicella vaccination program started in 1995 (CDC).
+- The risk of reactivation of vaccine-strain VZV in vaccinated children is lower compared with reactivation of wild-type VZV (CDC).
+
+## 34. Prevention of Transmission
+
+| Measure | Purpose |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Keep the rash covered when possible | Reduce direct contact with infectious vesicle fluid |
+| Avoid touching or scratching lesions | Reduce exposure and secondary infection |
+| Wash hands frequently | Reduce hand-borne spread of VZV |
+| Avoid direct contact with blister fluid | Prevent VZV transmission to susceptible people |
+| Avoid close contact with susceptible high-risk individuals | Protect pregnant individuals without immunity, newborns, and immunocompromised people |
+| Continue precautions until crusting | Transmission risk becomes very low after all vesicles have crusted |
+
+## 35. Emergency and Urgent Warning Signs
+
+| Warning Sign | Why It Matters | Recommended Urgency |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Rash near the eye | Risk of ocular involvement and vision loss | Urgent medical evaluation |
+| Any facial shingles rash | Even if the rash is not on the eye, it could still affect eyesight; prompt treatment may save eyesight (AAD) | Urgent medical evaluation |
+| Eye pain | Possible eye inflammation | Urgent medical evaluation |
+| Visual changes | Potential vision impairment | Urgent medical evaluation |
+| Facial rash involving forehead or nose | Possible ophthalmic nerve (V1) involvement | Urgent medical evaluation |
+| Severe headache | Possible neurological complication | Urgent medical evaluation |
+| Confusion | Possible encephalitis/meningoencephalitis | Urgent medical evaluation |
+| Weakness | Possible neurological complication | Urgent medical evaluation |
+| New neurological deficits | Possible CNS involvement | Urgent medical evaluation |
+| Severe neck stiffness | Possible meningeal involvement | Urgent medical evaluation |
+| Widespread rash | Possible disseminated disease | Urgent medical evaluation |
+| Rapid progression | Possible severe or disseminated disease | Urgent medical evaluation |
+| Severe systemic symptoms | Possible serious systemic involvement | Urgent medical evaluation |
+| Immunocompromised status | Higher risk of severe/disseminated disease | Prompt medical assessment |
+
+## 36. Shingles vs Chickenpox
+
+| Feature | Chickenpox (Varicella) | Herpes Zoster (Shingles) |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Cause | Primary VZV infection | Reactivation of latent VZV |
+| Biological mechanism | First exposure to VZV | Reactivation from sensory ganglia |
+| Distribution | Generalized rash involving multiple body areas | Localized dermatomal eruption |
+| Pain | Generally less prominent | Usually painful |
+| Rash | Widespread vesicular rash | Unilateral dermatomal vesicular rash |
+| Vesicles | Diffuse vesicles | Grouped vesicles in a dermatome |
+| Transmission | Respiratory and contact spread (highly contagious) | Direct contact with vesicle fluid |
+| Disease in exposed susceptible individuals | Chickenpox | Not transmitted as shingles; exposed susceptible people develop chickenpox |
+
+Fundamental distinction:
+
+- Primary VZV infection → Chickenpox
+- Reactivation of latent VZV → Herpes Zoster
+
+Prevention linkage: the chickenpox (varicella) vaccine reduces the risk of developing shingles later in life, and children vaccinated against varicella have lower rates of herpes zoster compared with children who had natural varicella infection (WHO; CDC).
+
+## 37. Shingles vs Herpes Simplex
+
+| Feature | Herpes Zoster | Herpes Simplex |
+| ----------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Virus | Varicella-Zoster Virus (VZV) | Herpes Simplex Virus (HSV) |
+| Distribution | Dermatomal, unilateral | Often around the mouth or genital region, depending on type and site |
+| Recurrence | Often occurs once; recurrence possible | Commonly recurrent |
+| Pain | Usually painful | Variable |
+| Vesicles | Grouped vesicles in a dermatome | Grouped vesicles at recurrent sites |
+| Laboratory confirmation | VZV PCR | HSV PCR (when needed) |
+
+Herpes simplex is caused by a different virus within the same viral family, and commonly causes recurrent localized lesions around the mouth or genital region.
+
+Clinical distinction may sometimes be difficult, particularly in atypical cases. Laboratory testing may be required when the diagnosis is uncertain.
+
+## 38. AI and Dermatology Image Interpretation
+
+- Why an image cannot always confirm shingles: a photograph may contain useful visual clues, but an image alone should not be considered sufficient to establish a definitive diagnosis.
+- Similar-appearing skin diseases: herpes simplex, contact dermatitis, impetigo, insect bites, folliculitis, and other vesicular eruptions can appear similar.
+- Effect of skin tone: erythema is less visible on darker skin tones, and inflammatory changes may appear violaceous, brownish, or grayish.
+- Importance of clinical history: history supports the diagnosis.
+- Importance of dermatomal distribution: a unilateral dermatomal pattern favors shingles.
+- Importance of pain: neuropathic pain is a characteristic feature.
+- Need for clinical examination: physical examination and, when necessary, laboratory testing are required.
+
+A reliable diagnosis may require clinical history, symptoms, lesion morphology, distribution, physical examination, and laboratory testing when necessary.
+
+The AI must never state:
+
+> "The patient definitely has shingles."
+
+A safer evidence-based output is:
+
+> "The visual findings may be compatible with herpes zoster, but an image alone cannot establish a definitive diagnosis. Clinical evaluation is recommended."
+
+## 39. RAG Safety Rules
+
+| Rule | Required AI Behavior |
+| ----------------------------------- | ------------------------------------------------------------ |
+| No definitive diagnosis from image alone | State findings as compatible, never definitive; recommend clinical evaluation |
+| No autonomous prescribing | Do not recommend prescription antivirals without appropriate medical evaluation |
+| No patient-specific dosing | Do not provide individualized drug doses unless the system is specifically designed and clinically validated for that purpose |
+| Escalate ocular involvement | Always flag possible ocular involvement as urgent |
+| Escalate severe neurological symptoms | Flag severe headache, confusion, weakness, and new deficits as urgent |
+| Consider immunosuppression | Treat immunocompromised patients as higher-risk |
+| Mention differential diagnoses | Do not assume every unilateral rash is herpes zoster |
+| Distinguish education from diagnosis | Clearly separate educational information from diagnosis |
+| Use authoritative references | Rely on the evidence hierarchy in this knowledge base |
+| Do not fabricate citations | Return only verified references from this document |
+
+## 40. Frequently Asked Questions
+
+1. **What is shingles?** Shingles (herpes zoster) is a painful rash caused by reactivation of the varicella-zoster virus.
+
+2. **What causes shingles?** Reactivation of latent varicella-zoster virus (VZV) that traveled to sensory ganglia after a previous chickenpox infection.
+
+3. **Is shingles contagious?** Not as shingles, but a person with active lesions can transmit VZV through direct contact with vesicle fluid.
+
+4. **Can shingles spread to another person?** The virus can spread to susceptible people, but the exposed person develops chickenpox, not shingles.
+
+5. **Can shingles cause chickenpox?** Yes, exposure of a susceptible person to VZV from shingles lesions can cause chickenpox.
+
+6. **What does shingles look like?** Grouped fluid-filled vesicles on red skin, in a band-like pattern on one side of the body.
+
+7. **Does shingles always hurt?** Pain is a characteristic feature, but intensity varies considerably between individuals.
+
+8. **Can pain happen before the rash?** Yes, prodromal pain, burning, or tingling commonly occurs before the rash appears.
+
+9. **Where does shingles usually appear?** Most commonly on the trunk (thoracic dermatomes), but it can affect the face, neck, lumbar, and sacral regions.
+
+10. **Can shingles affect the eye?** Yes; involvement of the eye area can threaten vision and requires urgent evaluation.
+
+11. **How long does shingles last?** The rash typically heals within about 2-4 weeks; nerve pain may persist longer.
+
+12. **How is shingles diagnosed?** Usually clinically, based on the rash's appearance and dermatomal distribution.
+
+13. **Is PCR needed?** Not for every typical case; PCR is the preferred confirmatory test when laboratory confirmation is needed.
+
+14. **What is the treatment?** Antiviral therapy (acyclovir, valacyclovir, or famciclovir) plus pain management and skin care.
+
+15. **Why is early treatment important?** Antiviral therapy is most effective when started early, ideally within 72 hours of rash onset.
+
+16. **What happens if treatment starts after 72 hours?** Treatment may still be considered on a case-by-case basis; it is not automatically useless.
+
+17. **What is postherpetic neuralgia?** Pain persisting in the affected area after shingles, defined by CDC as pain lasting more than 90 days after rash onset.
+
+18. **Can shingles come back?** Yes, recurrence is possible, although most people have only one episode.
+
+19. **Can shingles cause permanent problems?** Possible sequelae include chronic nerve pain, vision loss, hearing problems, and scarring.
+
+20. **Can shingles affect vision?** Yes, especially with involvement of the eye area; this is urgent.
+
+21. **Who is at higher risk?** Older adults and immunocompromised individuals are at higher risk.
+
+22. **Can shingles occur in young people?** Yes, but it is much more common with increasing age.
+
+23. **Is there a vaccine?** Yes, the recombinant zoster vaccine (RZV).
+
+24. **Can vaccination prevent shingles?** Yes, vaccination is the main preventive strategy for eligible populations.
+
+25. **Can someone get shingles twice?** Yes, recurrence is possible; prior shingles does not guarantee lifelong protection.
+
+26. **Should I see a doctor if the rash is near my eye?** Yes, this is an urgent medical situation.
+
+27. **What is Ramsay Hunt syndrome?** Herpes zoster involving the facial nerve that can cause ear rash, facial palsy, and hearing symptoms.
+
+28. **Can scratching the rash make it worse?** It can increase the risk of secondary bacterial infection and should be avoided.
+
+29. **When is a person with shingles no longer contagious?** Transmission risk becomes very low once all vesicles have crusted.
+
+30. **Is there a difference between shingles and chickenpox?** Yes: chickenpox is the primary VZV infection (generalized rash), while shingles is reactivation (localized painful dermatomal rash).
+
+31. **Can shingles be deadly?** Although rare, some people die of shingles, almost always older adults or people with weakened immune systems (AAD; CDC).
+
+32. **How many people get shingles each year in the United States?** CDC estimates about one million cases of herpes zoster occur annually in the United States.
+
+33. **How long can postherpetic neuralgia last?** PHN can last for months, years, or the rest of a person's life; there is no way to know in advance how long it will last (CDC; AAD).
+
+34. **Does the shingles rash always appear?** No. Shingles without a rash is recognized and is called "zoster sine herpete" (CDC).
+
+35. **Can the shingles rash spread through the air?** CDC states that active herpes zoster lesions are infectious through direct contact with vesicular fluid or through breathing in virus particles from the blisters until they dry and scab over.
+
+36. **Is it necessary to test for past chickenpox before shingles vaccination?** No. For adults aged 50 years and older, CDC does not recommend screening for prior varicella, since more than 99% of adults aged 50 and older worldwide have been exposed to VZV.
+
+37. **How many doses of the shingles vaccine are needed?** Two doses. CDC recommends 2 doses of RZV (Shingrix), typically separated by 2-6 months.
+
+38. **Can children get shingles?** Yes, but herpes zoster is uncommon among children; children vaccinated against varicella have lower rates of herpes zoster than children who had natural varicella infection (CDC).
+
+39. **What should be done if the rash appears on the face?** A shingles rash on the face is a medical emergency, even if it is not on the eye, because it can still affect eyesight (AAD).
+
+40. **Does treatment after 3 days still help?** Yes. Receiving treatment after more than 3 days still has benefits, so a doctor should still be seen (AAD).
+
+## 41. Medical Terminology Dictionary
+
+| Medical Term | Plain-English Meaning |
+| ----------------------------------- | ------------------------------------------------------------ |
+| VZV | Varicella-Zoster Virus, the virus that causes chickenpox and shingles |
+| Varicella | Chickenpox, the primary VZV infection |
+| Herpes zoster | Shingles, the reactivation form of VZV infection |
+| Dermatomal | Relating to the area of skin supplied by a single sensory nerve |
+| Dermatome | An area of skin supplied by one sensory nerve |
+| Vesicle | A small fluid-filled blister |
+| Papule | A small raised skin bump |
+| Macule | A flat, discolored skin spot |
+| Crust | Dried skin lesion surface formed during healing |
+| Paresthesia | Abnormal sensation such as tingling or numbness |
+| Allodynia | Pain caused by a normally non-painful stimulus (e.g., light touch) |
+| Hyperesthesia | Increased sensitivity to sensory stimulation |
+| Neuropathic pain | Pain resulting from nerve damage or dysfunction |
+| Postherpetic neuralgia | Persistent pain after shingles (per CDC, >90 days after rash onset) |
+| Immunosuppression | Reduced ability of the immune system to fight infection |
+| Disseminated infection | Infection spread beyond its original localized site |
+| Herpes zoster ophthalmicus | Shingles involving the ophthalmic nerve branch and eye area |
+| PCR | Polymerase chain reaction, a molecular test to detect viral DNA |
+| Antiviral | A medication that inhibits viral replication |
+| Recombinant zoster vaccine | The vaccine (RZV, e.g., Shingrix) used to prevent shingles |
+| Zoster sine herpete | Shingles without a rash, recognized by CDC |
+| Photophobia | Sensitivity to bright light |
+| Eczema herpeticum | Herpes simplex infection complicating eczematous skin |
+| Papular urticaria | Itchy papular rash, often from insect bites |
+| Zostavax | A live attenuated zoster vaccine no longer available for use in the United States (discontinued as of November 18, 2020) |
+
+## 42. RAG Search Keywords
+
+| Category | Keywords |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Disease names | Shingles, Herpes zoster, Herpes Zoster Virus infection, Zona, Varicella-zoster reactivation |
+| Virus | Varicella-Zoster Virus, VZV, Human alphaherpesvirus 3, HHV-3 |
+| Rash terms | Shingles rash, Shingles blisters, Vesicular rash, Grouped vesicles, Dermatomal rash, Unilateral rash, Blistering eruption, Crusting |
+| Pain terms | Painful rash, Neuropathic pain, Burning pain, Tingling, Paresthesia, Numbness, Hyperesthesia, Allodynia |
+| Complications | Postherpetic neuralgia, PHN, Herpes zoster ophthalmicus, HZO, Shingles eye, Ramsay Hunt syndrome, Vision loss, Encephalitis, Disseminated zoster |
+| Diagnosis | Clinical diagnosis, VZV PCR, Laboratory confirmation, Differential diagnosis |
+| Treatment | Shingles treatment, Antiviral therapy, Acyclovir, Valacyclovir, Famciclovir, Pain management |
+| Prevention | Shingles vaccine, Recombinant zoster vaccine, RZV, Shingrix, Vaccination, Hand hygiene, Covering lesions, Varicella vaccine, Chickenpox vaccine |
+| Populations | Immunocompromised, Pregnancy, Older adults, High-risk groups |
+| Related terms | Zoster sine herpete, Photophobia, Eczema herpeticum, Papular urticaria, Zostavax, Shingles band, Shingles stripe |
+
+## 43. Evidence-Based Summary
+
+| Category | Key Evidence-Based Fact |
+| ----------------------------------- | ------------------------------------------------------------ |
+| Cause | Reactivation of latent varicella-zoster virus |
+| Transmission | Direct contact with vesicle fluid; exposed susceptible people develop chickenpox |
+| Symptoms | Prodromal pain, burning, tingling, then a painful unilateral vesicular rash |
+| Rash | Grouped vesicles in a dermatomal distribution, usually unilateral, not crossing the midline |
+| Diagnosis | Usually clinical; VZV PCR is the preferred confirmatory test when needed |
+| Treatment | Antiviral therapy (acyclovir, valacyclovir, famciclovir), most effective within 72 hours of rash onset |
+| Complications | Postherpetic neuralgia most common; also ocular, neurological, pulmonary, and bacterial complications |
+| Prevention | Recombinant zoster vaccination according to applicable guidelines |
+| Vaccination | WHO (2025) supports RZV consideration for older adults with a 2-dose schedule and a minimum 2-month interval; CDC recommends 2 doses of RZV for adults ≥50 (separated by 2-6 months) and for certain immunocompromised adults ≥19 |
+| Urgent warning signs | Eye involvement, any facial shingles rash, neurological symptoms, disseminated disease, and immunosuppression |
+| AI limitations | An image alone cannot establish a definitive diagnosis of shingles |
+| Mortality | Death from shingles is rare and occurs almost exclusively in older adults or immunocompromised individuals (CDC; AAD) |
+
+### Final Clinical Definition
+
+Herpes zoster (shingles) is a viral disease caused by reactivation of latent varicella-zoster virus. It typically presents as a painful, unilateral vesicular eruption affecting one or more adjacent dermatomes. The rash usually heals within 2-4 weeks, but significant complications can occur, particularly postherpetic neuralgia, ocular disease, and disseminated or neurological disease in high-risk patients. Early antiviral treatment is most effective when initiated promptly, ideally within 72 hours of rash onset. Vaccination with recombinant zoster vaccine is the principal preventive strategy for eligible populations according to current national and international recommendations.
+
+This definition represents the central high-confidence medical knowledge that should be retrieved by the RAG system when users ask general questions about herpes zoster.
+
+### High-Confidence Clinical Summary Table
+
+| Category | Evidence-based information |
+| --------------------------------------------- | ----------------------------------------------------------------------------- |
+| Disease | Herpes zoster / Shingles |
+| Causative virus | Varicella-Zoster Virus (VZV) |
+| Primary VZV disease | Chickenpox / Varicella |
+| Mechanism | Reactivation of latent VZV |
+| Main clinical feature | Painful vesicular rash |
+| Typical distribution | One or two adjacent dermatomes |
+| Typical laterality | Usually unilateral |
+| Typical midline behavior | Usually does not cross the body's midline |
+| Common locations | Thoracic trunk and face |
+| Prodrome | Pain, burning, tingling, itching, numbness |
+| Lesion type | Grouped fluid-filled vesicles |
+| Evolution | Vesicles → crusting → healing |
+| Typical rash duration | Approximately 2-4 weeks |
+| Major complication | Postherpetic neuralgia |
+| Other complications | Ocular, neurological, pulmonary, bacterial, disseminated disease |
+| Preferred laboratory confirmation when needed | VZV PCR |
+| Antiviral drugs | Acyclovir, Valacyclovir, Famciclovir |
+| Best treatment timing | Ideally within 72 hours of rash onset |
+| Transmission | Direct contact with infectious blister fluid |
+| Infection acquired by susceptible contact | Chickenpox |
+| Main prevention strategy | Recombinant zoster vaccination according to applicable guidelines |
+| High-risk groups | Older adults and immunocompromised individuals |
+| Major urgent presentation | Ocular/facial involvement, severe neurological symptoms, disseminated disease |
+
+### Additional Core Terminology for Medical RAG
+
+**Disease Names**
+
+- Herpes zoster
+- Shingles
+- Zona
+- Herpes zoster infection
+- Varicella-zoster reactivation
+- Herpes zoster virus infection
+
+**Virus**
+
+- Varicella-zoster virus
+- VZV
+- Human alphaherpesvirus 3
+- HHV-3
+
+**Skin Findings**
+
+- Vesicle
+- Vesicular rash
+- Grouped vesicles
+- Dermatomal rash
+- Unilateral rash
+- Blistering eruption
+- Crusting
+- Maculopapular rash
+
+**Neurological Symptoms**
+
+- Neuropathic pain
+- Burning pain
+- Tingling
+- Paresthesia
+- Numbness
+- Hyperesthesia
+- Allodynia
+- Postherpetic neuralgia
+- PHN
+
+**Complications**
+
+- Herpes zoster ophthalmicus
+- Ocular herpes zoster
+- Vision loss
+- Hearing loss
+- Encephalitis
+- Meningoencephalitis
+- Pneumonia
+- Disseminated zoster
+- Bacterial superinfection
+- Cranial nerve palsy
+
+**Diagnosis**
+
+- Clinical diagnosis
+- Dermatomal distribution
+- VZV PCR
+- Laboratory confirmation
+- Differential diagnosis
+
+**Treatment**
+
+- Antiviral therapy
+- Acyclovir
+- Valacyclovir
+- Famciclovir
+- Analgesia
+- Pain management
+
+**Prevention**
+
+- Recombinant zoster vaccine
+- RZV
+- Shingrix
+- Vaccination
+- Infection control
+- Covering lesions
+- Hand hygiene
+
+## 44. References
+
+The following references support the sections indicated. All sources are authoritative and verifiable.
+
+### World Health Organization (WHO)
+
+- Organization: World Health Organization (WHO)
+- Title: Shingles (Herpes Zoster) - Fact Sheet
+- Update date: March 24, 2025
+- URL: https://www.who.int/news-room/fact-sheets/detail/shingles-(herpes-zoster)
+- Type: International health agency fact sheet
+- Sections supported: Definition, Etiology, Epidemiology, Risk factors, Clinical presentation, Transmission, Complications, Diagnosis, Treatment, Vaccination, Chickenpox vaccine and shingles, Prevention of transmission
+
+### World Health Organization (WHO)
+
+- Organization: World Health Organization (WHO)
+- Title: WHO Position Paper on Herpes Zoster Vaccines
+- Publication date: July 2025
+- URL: https://iris.who.int/bitstream/handle/10665/381811/WER10027-28-265-284.pdf
+- Type: WHO normative position paper
+- Sections supported: Vaccination, Prevention
+
+### Centers for Disease Control and Prevention (CDC)
+
+- Organization: Centers for Disease Control and Prevention (CDC)
+- Title: Clinical Overview of Shingles (Herpes Zoster)
+- URL: https://www.cdc.gov/shingles/hcp/clinical-overview/index.html
+- Type: National public-health clinical guidance
+- Sections supported: Pathogenesis, Risk factors, Clinical presentation, Complications, PCR testing, Antiviral treatment, Vaccination, Epidemiology, Mortality, Trends, Transmission
+
+### Centers for Disease Control and Prevention (CDC)
+
+- Organization: Centers for Disease Control and Prevention (CDC)
+- Title: Clinical Features of Shingles
+- URL: https://www.cdc.gov/shingles/hcp/clinical-signs/index.html
+- Type: National public-health clinical guidance
+- Sections supported: Dermatomal distribution, Vesicular lesions, Clinical progression, PHN, Ocular disease, Disseminated disease, Neurological complications, Laboratory diagnosis, Differential diagnosis, Zoster sine herpete
+
+### American Academy of Dermatology (AAD)
+
+- Organization: American Academy of Dermatology (AAD)
+- Title: Shingles: Signs and Symptoms
+- URL: https://www.aad.org/public/diseases/a-z/shingles-symptoms
+- Type: Professional medical society patient-education resource
+- Update date: Last updated January 3, 2024
+- Sections supported: Clinical appearance, Disease stages, Pain and sensory symptoms, Vesicular rash, Healing timeline, Skin tone appearances, PHN
+
+### American Academy of Dermatology (AAD)
+
+- Organization: American Academy of Dermatology (AAD)
+- Title: Shingles: Diagnosis and Treatment
+- URL: https://www.aad.org/public/diseases/a-z/shingles-treatment
+- Type: Professional medical society patient-education resource
+- Sections supported: Clinical diagnosis, Laboratory confirmation, Antiviral treatment, Early treatment, Ocular referral, Symptom management, Pain management, Outcome and recovery
+
+### NCBI Bookshelf / StatPearls
+
+- Organization: NCBI Bookshelf / StatPearls
+- Title: Herpes Zoster
+- Update date: Current version updated July 2026
+- URL: https://www.ncbi.nlm.nih.gov/books/NBK441824/
+- Type: Academic medical reference
+- Sections supported: Pathophysiology, Clinical presentation, Diagnosis, Differential diagnosis, Treatment, Complications, Prevention
+
+### Centers for Disease Control and Prevention (CDC)
+
+- Organization: Centers for Disease Control and Prevention (CDC)
+- Title: Shingles Vaccine Recommendations
+- Update date: October 22, 2024
+- URL: https://www.cdc.gov/shingles/hcp/vaccine-considerations/index.html
+- Type: National public-health vaccination guidance
+- Sections supported: Vaccination, Timing between doses, Immunocompromised adults, Prior shingles, Prior Zostavax, Varicella screening
+
+## Evidence Hierarchy Note
+
+For future maintenance of this knowledge base, sources should be prioritized in this order:
+
+1. WHO guidelines / position papers
+2. CDC clinical guidance
+3. National public-health agencies and official clinical guidelines
+4. Professional medical societies
+5. Peer-reviewed systematic reviews and clinical studies
+6. Academic medical references such as NCBI Bookshelf
+7. General medical websites
+
+General blogs, commercial websites, forums, social media posts, and unreferenced AI-generated medical content should not be treated as authoritative sources for the RAG knowledge base.
+
+## Medical Disclaimer
+
+This document is intended for medical education, knowledge retrieval, research support, and RAG-based information retrieval. It is not a substitute for professional medical diagnosis or treatment. The information should not be used by an AI system to make an autonomous definitive diagnosis or prescribe individualized treatment. Clinical decisions should be made by qualified healthcare professionals using the patient's complete clinical history, examination, and appropriate diagnostic testing. When urgent symptoms are present, professional medical evaluation should be recommended.
+Mariam Hassan:
+ATOPIC DERMATITIS (ATOPIC ECZEMA)
+Medical RAG Knowledge Base
+
+Purpose:
+Educational medical knowledge base for an AI RAG project.
+This knowledge base provides information about Atopic Dermatitis, including symptoms, appearance, causes, triggers, diagnosis, treatment, prevention, complications, and medical safety.
+
+Primary Sources:
+- American Academy of Dermatology (AAD)
+- NICE
+- Mayo Clinic
+- DermNet NZ
+
+
+==================================================
+CHUNK 01 — DEFINITION
+==================================================
+
+Section: Definition
+
+Atopic dermatitis (AD), also known as atopic eczema, is a common chronic inflammatory skin condition. It commonly causes dry, itchy, and inflamed skin. Atopic dermatitis can occur at any age but often begins during childhood. It is not contagious and cannot spread from person to person.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 02 — MAIN SYMPTOMS
+==================================================
+
+Section: Symptoms
+
+Common symptoms of atopic dermatitis include intense itching, dry or cracked skin, an inflammatory rash, swelling, scaling, small raised bumps, oozing, crusting, and raw or sensitive skin. Scratching can worsen the rash and damage the skin.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 03 — CHRONIC SKIN CHANGES
+==================================================
+
+Section: Chronic Skin Changes
+
+Repeated scratching and long-term inflammation can cause the skin to become thicker, rougher, scaly, or leathery. This change is known as lichenification. After an eczema flare improves, the affected skin may remain lighter or darker than the surrounding skin.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 04 — APPEARANCE ON DIFFERENT SKIN TONES
+==================================================
+
+Section: Appearance and Skin Tone
+
+Atopic dermatitis does not look the same on every skin tone. On lighter skin, affected areas may appear red or pink. On darker skin, eczema may appear dark brown, purple, grayish, or darker than the surrounding skin. It may also appear as small rough bumps. Therefore, eczema should not be identified only by looking for redness.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 05 — COMMON BODY LOCATIONS
+==================================================
+
+Section: Body Locations
+
+Atopic dermatitis can occur anywhere on the body. Commonly affected areas include the face, neck, hands, arms, legs, eyelids, elbows, elbow folds, and areas behind the knees. The location and appearance can vary depending on age and disease severity.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 06 — CAUSES
+==================================================
+
+Section: Causes
+
+The exact cause of atopic dermatitis is not completely understood. The condition is associated with interactions between genetic factors, the immune system, and the skin barrier. People with atopic dermatitis may have a weakened skin barrier, which can cause increased moisture loss and make the skin more vulnerable to irritation.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/causes
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 07 — RISK FACTORS
+==================================================
+
+Section: Risk Factors
+
+A family history of atopic dermatitis or other allergic conditions, such as asthma or hay fever, is associated with an increased risk of developing atopic dermatitis. Genetic and immune-system factors contribute to the condition.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/causes
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 08 — TRIGGERS
+==================================================
+
+Section: Triggers and Flare-ups
+
+Factors that may worsen atopic dermatitis or trigger flare-ups include dry skin, heat, sweating, cold or dry weather, irritating skin-care products, fragrances, certain cleaning products, tobacco smoke, stress, and some environmental allergens. Triggers vary between individuals.
+
+A trigger is a factor that may worsen symptoms or cause a flare-up. It should not automatically be considered the underlying cause of atopic dermatitis.
+
+Source: Mayo Clinic; American Academy of Dermatology (AAD)
+
+Source URLs:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 09 — DIAGNOSIS
+==================================================
+
+Section: Diagnosis
+
+Atopic dermatitis is primarily diagnosed through a clinical examination and medical history. A healthcare professional evaluates the appearance of the skin, symptoms, and the patient's medical history. Additional tests may sometimes be used to investigate allergies or rule out other skin conditions.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 10 — BASIC SKIN CARE
+==================================================
+
+Section: Basic Treatment and Skin Care
+
+Regular moisturization is an important part of managing atopic dermatitis. Moisturizers help maintain skin hydration, reduce dryness and cracking, and support the skin barrier. Dermatologists commonly recommend fragrance-free creams or ointments for people with atopic dermatitis. Gentle skin care and avoiding irritating products can also help manage symptoms.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 11 — TOPICAL CORTICOSTEROIDS
+==================================================
+
+Section: Topical Corticosteroids
+
+Topical corticosteroids are medications applied directly to the skin to reduce inflammation during eczema flares. The appropriate potency depends on factors such as disease severity, body location, and patient characteristics. Topical corticosteroids should be used according to healthcare-professional guidance.
+
+Source: NICE
+
+Source URL:
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 12 — OTHER TREATMENTS
+==================================================
+
+Section: Other Treatment Options
+
+Depending on the severity and characteristics of the condition, treatment may include moisturizers, topical corticosteroids, topical calcineurin inhibitors, phototherapy, biologic therapies, or systemic medications. Moderate-to-severe atopic dermatitis may require treatments beyond basic skin care and should be medically assessed.
+
+Treatment choice depends on factors such as age, disease severity, affected body areas, medical history, and previous treatment response.
+
+Source: American Academy of Dermatology (AAD); NICE
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 13 — PREVENTION
+==================================================
+
+Section: Prevention and Flare-up Management
+
+Regular moisturization, gentle skin care, and avoiding known personal triggers can help reduce eczema flare-ups. People with atopic dermatitis should identify factors that worsen their own symptoms and avoid them when possible. Fragrance-free skin-care products may be preferable for sensitive or eczema-prone skin.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/syc-20353273
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 14 — SCRATCHING
+==================================================
+
+Section: Scratching and Skin Damage
+
+Scratching can worsen atopic dermatitis and damage the skin barrier. Repeated scratching can cause raw skin, thickened skin, and an increased risk of skin infection. Managing itching and keeping the skin moisturized are important parts of eczema management.
+
+Source: American Academy of Dermatology (AAD)
+
+Source URL:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 15 — COMPLICATIONS
+==================================================
+
+Section: Complications and Infection
+
+Damaged skin caused by scratching can become infected. Signs that may suggest a skin infection include pus, yellow crusting, new streaks, increasing pain, or other signs of worsening inflammation. Fever together with a rash that appears infected requires medical evaluation.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/dxc-20341958
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 16 — WHEN TO SEE A DOCTOR
+==================================================
+
+Section: Medical Evaluation
+
+A healthcare professional should be consulted when eczema symptoms are severe, persistent, interfere with sleep or daily activities, or do not improve with appropriate self-care. Medical evaluation is especially important when signs of infection are present or when the diagnosis is uncertain.
+
+Source: Mayo Clinic
+
+Source URL:
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/symptoms-causes/dxc-20341958
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 17 — CHILDREN
+==================================================
+
+Section: Atopic Dermatitis in Children
+
+Atopic dermatitis commonly begins during childhood. In young children, eczema can commonly affect the face and other areas of the body. Management in children should take age, affected body location, severity, and treatment safety into account.
+
+Source: American Academy of Dermatology (AAD); NICE
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.nice.org.uk/guidance/cg57
+
+Evidence Level: High
+
+Important Note:
+NICE guideline CG57 specifically focuses on managing atopic eczema in children under 12 years. Recommendations from this guideline should not automatically be generalized to adults.
+
+
+==================================================
+CHUNK 18 — MEDICAL IMAGES
+==================================================
+
+Section: Visual Appearance
+
+Medical images of atopic dermatitis can show different presentations, including acute eczema, chronic lichenified eczema, facial eczema, hand eczema, flexural eczema, eyelid involvement, and eczema appearing on different skin tones.
+
+Images are useful as educational references but should not be treated as sufficient evidence for self-diagnosis.
+
+Primary Image Source:
+DermNet NZ
+
+Source URL:
+https://dermnetnz.org/images/atopic-dermatitis-images
+
+Evidence Level: High
+
+Image License Note:
+The license and permitted use of each individual image must be checked before using or redistributing it.
+
+
+==================================================
+CHUNK 19 — DIAGNOSTIC SAFETY
+==================================================
+
+Section: Diagnostic Safety
+
+The presence of itching, dryness, redness, or a rash does not by itself confirm atopic dermatitis. Several skin conditions can have similar symptoms or appearances. A medical RAG assistant should provide educational information and encourage professional evaluation when diagnosis is required rather than claiming that a user definitely has eczema.
+
+Source: American Academy of Dermatology (AAD); Mayo Clinic
+
+Source URLs:
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis
+https://www.mayoclinic.org/diseases-conditions/atopic-dermatitis-eczema/diagnosis-treatment/drc-20353279
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 20 — MEDICATION SAFETY
+==================================================
+
+Section: Medication Safety
+
+A medical RAG assistant should not prescribe medications, recommend personalized dosages, or tell a user to start, stop, or change prescription treatment based only on a chat. Treatment decisions should consider factors such as age, affected body area, disease severity, medical history, and other medications.
+
+Medication-related answers should be grounded in authoritative clinical guidance and should encourage consultation with a qualified healthcare professional when appropriate.
+
+Source: NICE; American Academy of Dermatology (AAD)
+
+Source URLs:
+https://www.nice.org.uk/guidance/cg57/chapter/Recommendations
+https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/treatment
+
+Evidence Level: High
+
+
+==================================================
+CHUNK 21 — SOURCE PRIORITY
+==================================================
+
+Section: Evidence and Source Priority
+
+For medical answers about atopic dermatitis, authoritative clinical guidelines and professional dermatology organizations should receive higher priority than general health websites.
+
+Preferred sources for this knowledge base include:
+
+1. American Academy of Dermatology (AAD)
+2. NICE Clinical Guidelines
+3. Mayo Clinic
+4. DermNet NZ
+
+Clinical guidelines and professional medical organizations should be prioritized when different sources provide conflicting recommendations.
+
+Source Type:
+Medical / Clinical
+
+
+==================================================
+CHUNK 22 — MEDICAL DISCLAIMER
+==================================================
+
+Section: Medical Disclaimer
+
+Information retrieved from this knowledge base is intended for educational and informational purposes only. It should not replace diagnosis, treatment, or advice from a qualified healthcare professional.
+
+The RAG assistant should not claim certainty about a diagnosis based solely on symptoms or images.
+
+The assistant should encourage users to seek professional medical evaluation when symptoms are severe, persistent, worsening, infected, or when the diagnosis is uncertain.
+[
+  {
+    "chunk_id": "acne_chunk_001",
+    "topic": "Definition, Anatomy, and Prevalence",
+    "source": [
+      "StatPearls / NCBI Bookshelf",
+      "Merck Manual Professional Edition",
+      "American Academy of Dermatology (AAD)",
+      "MedlinePlus"
+    ],
+    "content": "Acne vulgaris is a common chronic inflammatory skin condition involving the pilosebaceous unit, which consists of hair follicles and sebaceous glands. It commonly affects the face, upper chest, back, and shoulders. Acne may produce non-inflammatory lesions such as blackheads and whiteheads and inflammatory lesions such as papules, pustules, nodules, and cysts. It is especially common during adolescence and young adulthood, but it can also persist or begin during adulthood. Acne is not contagious."
+  },
+  {
+    "chunk_id": "acne_chunk_002",
+    "topic": "Pathophysiology and Key Factors",
+    "source": [
+      "MSD Manual / Merck Manual",
+      "DermNet",
+      "MedlinePlus"
+    ],
+    "content": "Acne development involves several interacting processes: increased sebum production, abnormal follicular keratinization and plugging, changes in the microbial environment of the pilosebaceous unit including Cutibacterium acnes, and inflammation. Increased sebum and accumulation of dead skin cells can contribute to follicular blockage. Hormonal changes, particularly increased androgen activity, can increase sebum production and contribute to acne."
+  },
+  {
+    "chunk_id": "acne_chunk_003",
+    "topic": "Clinical Classification and Lesion Types",
+    "source": [
+      "StatPearls / NCBI Bookshelf",
+      "Yale Medicine",
+      "American Academy of Dermatology (AAD)",
+      "DermNet"
+    ],
+    "content": "Acne lesions can be non-inflammatory or inflammatory. Open comedones (blackheads) are clogged follicles that remain open at the surface, while closed comedones (whiteheads) are clogged follicles covered by skin. Papules are small inflamed raised bumps. Pustules are inflamed lesions that contain visible pus. Nodules are larger, deeper, and often painful lesions. Cysts are deep inflammatory lesions and may increase the risk of scarring. Acne severity can be described as mild, moderate, or severe based on lesion type, extent, and the presence of deeper lesions or scarring."
+  },
+  {
+    "chunk_id": "acne_chunk_004",
+    "topic": "Etiology, Risk Factors, and Aggravating Factors",
+    "source": [
+      "Mayo Clinic",
+      "American Academy of Dermatology (AAD)",
+      "MedlinePlus",
+      "NHS"
+    ],
+    "content": "Acne susceptibility is influenced by genetics and hormonal activity. Factors that may trigger or worsen acne include hormonal changes during puberty and other hormonal states, some medicines such as corticosteroids, testosterone, or lithium, and mechanical friction or pressure from helmets, tight clothing, straps, or similar sources. Some evidence suggests that high-glycemic dietary patterns may influence acne in some people. Acne is not simply caused by poor hygiene. Stress may worsen existing acne but is not considered the sole cause."
+  },
+  {
+    "chunk_id": "acne_chunk_005",
+    "topic": "Clinical Diagnosis and Treatment",
+    "source": [
+      "American Academy of Dermatology (AAD)",
+      "PubMed / Acne Clinical Guidelines",
+      "EuroGuiDerm Acne Guideline"
+    ],
+    "content": "Acne is primarily diagnosed clinically by evaluating the skin and identifying the type, number, distribution, and severity of lesions. Treatment depends on the severity and type of acne and the individual patient. Common treatment options include topical retinoids, benzoyl peroxide, azelaic acid, and selected topical or oral antimicrobial therapies. Some patients with moderate or severe acne may require oral medicines, hormonal therapy, or oral isotretinoin under appropriate medical supervision. Treatment should not be selected or prescribed by an AI system for an individual patient."
+  },
+  {
+    "chunk_id": "acne_chunk_006",
+    "topic": "Prevention and Skin Care",
+    "source": [
+      "American Academy of Dermatology (AAD)"
+    ],
+    "content": "Acne-prone skin can be managed with gentle skin care. Recommended habits may include washing gently, avoiding aggressive scrubbing, avoiding picking or squeezing lesions, choosing gentle non-irritating and non-comedogenic products when appropriate, and using sunscreen. Excessive washing and irritation can make acne worse. Consistent use of an appropriate treatment plan is important."
+  },
+  {
+    "chunk_id": "acne_chunk_007",
+    "topic": "Complications and Long-Term Effects",
+    "source": [
+      "DermNet",
+      "American Academy of Dermatology (AAD)"
+    ],
+    "content": "Acne can result in post-inflammatory hyperpigmentation and acne scarring. Deeper and more severe inflammatory lesions have a greater risk of permanent scarring. Acne can also affect quality of life and may contribute to emotional or social distress, especially when it is persistent or severe."
+  },
+  {
+    "chunk_id": "acne_chunk_008",
+    "topic": "When to See a Dermatologist",
+    "source": [
+      "American Academy of Dermatology (AAD)",
+      "DermNet"
+    ],
+    "content": "Professional dermatological evaluation is appropriate when acne is severe, deep, or painful; when scarring is developing; when acne does not improve with appropriate skin care; or when the diagnosis is uncertain. Several skin conditions can resemble acne, including folliculitis and perioral dermatitis, so persistent or unusual lesions should be assessed by a healthcare professional."
+  },
+  {
+    "chunk_id": "acne_chunk_009",
+    "topic": "Medical AI Safety and Response Rules",
+    "source": [
+      "Project safety policy / clinical safety design"
+    ],
+    "content": "The Medical AI system should provide educational information and evidence-based explanations rather than a definitive diagnosis. It should retrieve information from trusted medical sources, communicate uncertainty when appropriate, and recommend professional evaluation when symptoms are severe, unusual, worsening, or associated with significant pain or scarring. The system should not prescribe individual medication doses, replace a dermatologist, or claim certainty from an image alone. Image analysis should be presented as an observation or risk-support feature, not as a definitive medical diagnosis."
+  }
+]
